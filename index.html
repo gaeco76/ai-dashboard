@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ko" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 모델 비교 대시보드</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%278%27 fill=%27%237c6cff%27/%3E%3Ctext x=%2716%27 y=%2722%27 font-size=%2716%27 text-anchor=%27middle%27 fill=%27white%27 font-family=%27sans-serif%27 font-weight=%27bold%27%3EAI%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/ai.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">AI</div>
+    <div>
+      <div class="brand-title">AI 모델 비교 대시보드</div>
+      <div class="brand-sub">지수 · API 가격 · 구독 · 할인 마감 · 신기능 · 크리에이터 반응</div>
+    </div>
+  </div>
+  <div class="meta">
+    <div class="asof"><span class="muted">데이터 기준일</span> <b id="asOf">불러오는 중…</b></div>
+    <div class="src-state" id="srcState"></div>
+    <button class="btn ghost" id="themeBtn" title="테마 전환 (다크/라이트)">◐</button>
+  </div>
+</header>
+<nav class="tabs toptabs" id="toptabs" aria-label="탭"><button data-t="main" class="on">모델 비교</button><button data-t="x">X 화제 <span class="badge b-unverified">미확</span></button></nav>
+<nav class="tabs secnav" id="secnav">
+  <a href="#s-glance">한눈에</a><a href="#s-scatter">지능 vs 가격</a><a href="#s-context">문맥 길이</a><a href="#s-table">모델 표</a>
+  <a href="#s-plans">구독 요금제</a><a href="#s-deals">할인 D-day</a><a href="#s-timeline">신기능 타임라인</a><a href="#s-reactions">크리에이터 반응</a><a href="#s-notes">데이터 메모</a>
+</nav>
+<div class="accbar" id="filterbar">
+  <span class="accbar-label">가중치</span><span id="wFilter"></span>
+  <span class="accbar-label" style="margin-left:6px">업체</span><span class="accchips" id="vFilter"></span>
+  <div class="accbar-right">
+    <span class="legend-est">표기 <span class="sw sw-solid"></span>원문 가격 <span class="sw sw-dash"></span>조건부·대체 가격 <span class="sw sw-hatch"></span>한시·추정·근사</span>
+  </div>
+</div>
+<main id="main">
+  <div class="loading" id="loading"><div class="spinner"></div>데이터 불러오는 중…</div>
+  <div id="app"></div>
+  <div id="xapp" hidden></div>
+</main>
+<footer class="foot" id="foot"></footer>
+<script src="vendor/echarts.min.js"></script>
+<script src="js/core.js"></script>
+<script src="js/store.js"></script>
+<script src="js/app.js"></script>
+<script src="js/x.js"></script>
+</body>
+</html>

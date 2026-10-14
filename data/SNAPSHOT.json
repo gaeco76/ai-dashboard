@@ -1,0 +1,17 @@
+{
+ "synced_at": "2026-10-15T05:22:58+09:00",
+ "verification": "비서실장 확인 2026-10-14 · 사용 가능",
+ "store_files": {
+  "benchmarks": "ai/benchmarks/ai_benchmarks_aa_index_20261014.json",
+  "pricing": "ai/pricing/ai_pricing_api_20261014.json",
+  "promos": "ai/pricing/ai_pricing_promos_20261014.json",
+  "events": "ai/models/ai_models_events_20261014.json",
+  "claims": "ai/x/x_ai_claims_verification_20261014.json",
+  "posts": "ai/x/x_ai_posts_20261014.json"
+ },
+ "md5": {
+  "data.json": "b48ff7dfee44f3051c120b919235d960",
+  "store.json": "dc45e1a5bf42b890ad2ea51d0e086108",
+  "x.json": "dfdca0bdc3b5c891ddad20f94ceb16eb"
+ }
+}

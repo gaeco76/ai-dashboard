@@ -1,0 +1,2114 @@
+{
+ "asOf": "2026-10-04",
+ "title": "AI 모델 리서치 (기준일: 2026-10-04 KST)",
+ "sourceFile": "2026-10-04.md",
+ "sourcePath": "/workspace/ai-model-research/2026-10-04.md",
+ "generatedAt": "2026-10-15T05:22:58+09:00",
+ "preamble": "지수 = Artificial Analysis Intelligence Index (https://artificialanalysis.ai/leaderboards/models). 가격 = API 1M 토큰당 USD 입력/출력.",
+ "sources": [
+  {
+   "url": "https://artificialanalysis.ai/leaderboards/models",
+   "context": "지수 = Artificial Analysis Intelligence Index (). 가격 = API 1M 토큰당 USD 입력/출력.",
+   "count": 1
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+   "context": "1 | Anthropic | Claude Opus 5.5 | 9/22 | 58 | 4 / 20 | 1M | 비공개 | 종합 1등",
+   "count": 1
+  },
+  {
+   "url": "https://www.anthropic.com/claude/opus",
+   "context": "1 | Anthropic | Claude Opus 5.5 | 9/22 | 58 | 4 / 20 | 1M | 비공개 | 종합 1등",
+   "count": 3
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/gpt-6-astra",
+   "context": "2 | OpenAI | GPT-6 Astra | 9/3 | 53 | 10 / 50 | 1M | 비공개 | 코딩, 작업당 비용",
+   "count": 1
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+   "context": "3 | Google | Gemini 4 Argon | 9/30 | 53 | 2 / 10 도입가 (이후 4 / 20, 도입가 종료일 미공개) | 1M | 비공개 | 파트너 한정 공개",
+   "count": 1
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+   "context": "3 | Google | Gemini 4 Argon | 9/30 | 53 | 2 / 10 도입가 (이후 4 / 20, 도입가 종료일 미공개) | 1M | 비공개 | 파트너 한정 공개",
+   "count": 3
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/gpt-6-1-sol",
+   "context": "4 | OpenAI | GPT-6.1 Sol | 9/30 | 52 | 2 / 10 | 1.05M | 비공개 | Astra급, 1/5 가격",
+   "count": 1
+  },
+  {
+   "url": "https://endue.ai/blog/gpt-6-1-sol-independent-tests/",
+   "context": "4 | OpenAI | GPT-6.1 Sol | 9/30 | 52 | 2 / 10 | 1.05M | 비공개 | Astra급, 1/5 가격",
+   "count": 3
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/muse-spark-1-3",
+   "context": "5 | Meta | Muse Spark 1.3 | 9/2 | 48 | 1.25 / 4.25 | 1M | 비공개 | 싼 에이전트",
+   "count": 1
+  },
+  {
+   "url": "https://www.heise.de/en/news/Muse-Spark-1-3-Meta-catches-up-to-top-models-11440367.html",
+   "context": "5 | Meta | Muse Spark 1.3 | 9/2 | 48 | 1.25 / 4.25 | 1M | 비공개 | 싼 에이전트",
+   "count": 2
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/grok-4-7",
+   "context": "6 | xAI | Grok 4.7 | 9/21 | 46 | 2 / 6 (200K 초과 4 / 12) | 500K | 비공개 | 중간 가격",
+   "count": 1
+  },
+  {
+   "url": "https://x.ai/news/grok-4-7",
+   "context": "6 | xAI | Grok 4.7 | 9/21 | 46 | 2 / 6 (200K 초과 4 / 12) | 500K | 비공개 | 중간 가격",
+   "count": 2
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+   "context": "7 | Xiaomi | MiMo-V2.6-Pro | 9/22 | 46 | 0.435 / 0.87 | 1M | MIT | 오픈 1등",
+   "count": 2
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/qwen3-8-max",
+   "context": "8 | Alibaba | Qwen3.8 Max | 8/3 | 45 | 2 / 6 | 984K | 비공개 (API 전용, 오픈 가중치 Qwen3.8은 별개) | 중국 플래그십",
+   "count": 3
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/glm-5-3",
+   "context": "9 | Z.ai | GLM-5.3 | 8/14 API, 8/28 가중치 | 45 | 1.40 / 4.40 | 1M | 조건부 공개 | 오픈 2위권",
+   "count": 1
+  },
+  {
+   "url": "https://glm5.app/blog/glm-5-3-coding-plan",
+   "context": "9 | Z.ai | GLM-5.3 | 8/14 API, 8/28 가중치 | 45 | 1.40 / 4.40 | 1M | 조건부 공개 | 오픈 2위권",
+   "count": 1
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/kimi-k3",
+   "context": "10 | Moonshot | Kimi K3 | 7/16 | 44 | 3 / 15 | 1.05M | 조건부 공개 | 오픈 3위",
+   "count": 1
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash",
+   "context": "11 | DeepSeek | V4.1 Flash | 9/10 | 39 | 0.30 / 1.20 피크 (오프피크 할인가는 아래 메모) | 1M | MIT | 대량 최저가",
+   "count": 1
+  },
+  {
+   "url": "https://api-docs.deepseek.com/quick_start/pricing",
+   "context": "11 | DeepSeek | V4.1 Flash | 9/10 | 39 | 0.30 / 1.20 피크 (오프피크 할인가는 아래 메모) | 1M | MIT | 대량 최저가",
+   "count": 4
+  },
+  {
+   "url": "https://artificialanalysis.ai/models/minimax-m3",
+   "context": "12 | MiniMax | M3 | 6/1 | 29 | 0.30 / 1.20 (512K 초과 0.60 / 2.40) | 1M | 조건부 공개 | 장문 가성비",
+   "count": 1
+  },
+  {
+   "url": "https://latenteast.com/news/minimax-m3-open-weights-price-cut",
+   "context": "12 | MiniMax | M3 | 6/1 | 29 | 0.30 / 1.20 (512K 초과 0.60 / 2.40) | 1M | 조건부 공개 | 장문 가성비",
+   "count": 1
+  },
+  {
+   "url": "https://buzzrag.com/article/deepseek-v41-flash-benchmarks-shine-real-tasks-falter",
+   "context": "DeepSeek V4.1 Flash: 대표가는 피크 0.30 / 1.20 (AA와 동일). 오프피크는 0.15 / 0.60. 피크 시간은 평일 01–04·06–10 UTC (KST 10–13·15–19시).",
+   "count": 2
+  },
+  {
+   "url": "https://docs.qwencloud.com/token-plan/personal/token-plan-personal-overview",
+   "context": "Qwen3.8 Max: 가중치는 비공개(API 전용, AA \"Proprietary\"). 오픈 가중치 Qwen3.8 계열은 별개 모델이다. 문맥 984K는 AA 기준. Token Plan 한시 할인가 종료일은 미공개 (QwenCloud가 기간 변경 권리를 명시).",
+   "count": 4
+  },
+  {
+   "url": "https://news.aibase.com/news/31365",
+   "context": "변형·프리뷰 (표에는 넣지 않음): Claude Opus 5.5 Fast 모드 $8 / $40 (). MiniMax M3.1-Flash-Preview는 MiniMax Code 전용 ().",
+   "count": 3
+  },
+  {
+   "url": "https://claude.com/pricing",
+   "context": "Anthropic | Pro / Max 5x / Max 20x | 20 (연간 결제 시 월 17) / 100 / 200 | Opus 5.5 (Pro 이상) | 5시간 + 주간",
+   "count": 1
+  },
+  {
+   "url": "https://learn.chatgpt.com/docs/pricing",
+   "context": "OpenAI | Go / Plus / Pro 100 / Pro 200 / Pro 500 | 8 / 20 (₩29,000, 2차 출처) / 100 / 200 / 500 | Go: 없음, Plus: Astra·6.1 Sol은 Work·Codex만, Pro: 채팅 Astra(GPT-6 Pro",
+   "count": 2
+  },
+  {
+   "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+   "context": "OpenAI | Go / Plus / Pro 100 / Pro 200 / Pro 500 | 8 / 20 (₩29,000, 2차 출처) / 100 / 200 / 500 | Go: 없음, Plus: Astra·6.1 Sol은 Work·Codex만, Pro: 채팅 Astra(GPT-6 Pro",
+   "count": 1
+  },
+  {
+   "url": "https://www.digitalmarketer.co.kr/class/chatgpt-astra-basics/chatgpt-plans-and-limits",
+   "context": "OpenAI | Go / Plus / Pro 100 / Pro 200 / Pro 500 | 8 / 20 (₩29,000, 2차 출처) / 100 / 200 / 500 | Go: 없음, Plus: Astra·6.1 Sol은 Work·Codex만, Pro: 채팅 Astra(GPT-6 Pro",
+   "count": 1
+  },
+  {
+   "url": "https://one.google.com/intl/en_us/about/google-ai-plans/",
+   "context": "Google | AI Plus / AI Pro / AI Ultra 5x / AI Ultra 20x | 미확인 / 19.99 (₩29,000) / 99.99 / 199.99 | Argon 없음 | 무료 대비 Plus 2배, Pro 4배, 5시간 회복 + 주간",
+   "count": 1
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+   "context": "Google | AI Plus / AI Pro / AI Ultra 5x / AI Ultra 20x | 미확인 / 19.99 (₩29,000) / 99.99 / 199.99 | Argon 없음 | 무료 대비 Plus 2배, Pro 4배, 5시간 회복 + 주간",
+   "count": 2
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261002_0003812074",
+   "context": "Google | AI Plus / AI Pro / AI Ultra 5x / AI Ultra 20x | 미확인 / 19.99 (₩29,000) / 99.99 / 199.99 | Argon 없음 | 무료 대비 Plus 2배, Pro 4배, 5시간 회복 + 주간",
+   "count": 2
+  },
+  {
+   "url": "https://dev.meta.ai/help/subscriptions/what-is-a-muse-code-subscription",
+   "context": "Meta | Muse Code Everyday / High / Power | 5 / 15 / 50 | 최신 Muse(1.3 추정) | 5시간 10–50회, CLI 전용",
+   "count": 1
+  },
+  {
+   "url": "https://x.ai/pricing",
+   "context": "xAI | SuperGrok Lite / SuperGrok / SuperGrok Plus / SuperGrok Heavy | 10 (Lite 미확인) / 30 / 100 / 300 (Heavy 미확인) | Grok 4.7 미확인 (x.ai/pricing 표기는 Grok 4.6) | 주간",
+   "count": 1
+  },
+  {
+   "url": "https://felloai.com/grok-pricing/",
+   "context": "xAI | SuperGrok Lite / SuperGrok / SuperGrok Plus / SuperGrok Heavy | 10 (Lite 미확인) / 30 / 100 / 300 (Heavy 미확인) | Grok 4.7 미확인 (x.ai/pricing 표기는 Grok 4.6) | 주간",
+   "count": 1
+  },
+  {
+   "url": "https://mimo.mi.com/docs/en-US/price/token-plan",
+   "context": "Xiaomi | Token Plan Lite / Standard / Pro / Max | 6 / 16 / 50 / 100 | MiMo-V2.6 | 월 크레딧",
+   "count": 3
+  },
+  {
+   "url": "https://docs.z.ai/devpack/overview.md",
+   "context": "Z.ai | GLM Coding Plan Lite / Pro / Max | 18 / 80 / 168 | GLM-5.3 | 5시간 + 주간",
+   "count": 2
+  },
+  {
+   "url": "https://www.kimi.ai/help/membership/membership-pricing",
+   "context": "Moonshot | Kimi Moderato / Allegretto / Allegro / Vivace | 19 / 39 / 99 / 199 | Kimi K3 | 크레딧 풀",
+   "count": 2
+  },
+  {
+   "url": "https://platform.minimax.io/docs/token-plan/intro",
+   "context": "MiniMax | Token Plan Plus / Max / Ultra | 22 / 55 / 132 | M3 | 5시간 + 주간 (일부 2차 출처는 20·50·120 표기)",
+   "count": 1
+  },
+  {
+   "url": "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students",
+   "context": "ChatGPT Plus 학생 | 미국 대학생 4개월 무료 | 2026년 10/31 신청",
+   "count": 1
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+   "context": "Claude Code 크레딧 | Pro $100 / Max $250 (클라우드 세션) | 2026년 10/7 신청, 2026년 11/4 소멸",
+   "count": 2
+  },
+  {
+   "url": "https://aicoder.com/news/news-20261003-spacexai-grok-47-ramp-router-50-off",
+   "context": "Grok 4.7 | Ramp Router 50% (2차 출처), Vercel AI Gateway 40% (이미 종료) | Ramp 2026년 10/6, Vercel 2026년 9/27",
+   "count": 1
+  },
+  {
+   "url": "https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve",
+   "context": "Grok 4.7 | Ramp Router 50% (2차 출처), Vercel AI Gateway 40% (이미 종료) | Ramp 2026년 10/6, Vercel 2026년 9/27",
+   "count": 1
+  },
+  {
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://learn.chatgpt.com/docs/whats-new/devday-2026",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://www.theverge.com/tech/991837/geminis-daily-brief-is-now-available-to-everyone-in-the-us",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://support.google.com/gemini/answer/17171264",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://x.ai/news/grok-build-memory",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://yangtzeer.com/news/heavy-hitters/qwenwork-ai-workspace-teams-100/",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://zcode.z.ai/en/changelog",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://www.kimi.com/code/docs/en/kimi-code/whats-new.html",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://api-docs.deepseek.com/news/news260910",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=ejjBbaq9RmY",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=zObYdmNB2Bo",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://www.ai-to-be-aware-of.com/videos/17758",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=lnzijicbAzg",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=ctP3nhMwsEM",
+   "context": "",
+   "count": 1
+  },
+  {
+   "url": "https://dev.to/gosukiwi/muse-spark-13-a-review-3h7",
+   "context": "",
+   "count": 1
+  }
+ ],
+ "sections": [
+  "모델 비교표",
+  "구독 요금제 (월 USD)",
+  "진행 중 할인",
+  "최근 30일 신기능",
+  "크리에이터 반응 (긍정/부정)"
+ ],
+ "sourceMentions": 87,
+ "indexName": "Artificial Analysis Intelligence Index",
+ "priceUnit": "API 1M 토큰당 USD 입력/출력.",
+ "models": [
+  {
+   "rank": 1,
+   "vendor": "Anthropic",
+   "model": "Claude Opus 5.5",
+   "release": {
+    "raw": "9/22",
+    "dates": [
+     {
+      "date": "2026-09-22",
+      "label": null
+     }
+    ]
+   },
+   "index": 58,
+   "indexRaw": "58",
+   "price": {
+    "raw": "4 / 20",
+    "in": 4,
+    "out": 20,
+    "label": null,
+    "alt": [],
+    "flags": [],
+    "kind": "list",
+    "blend31": 8.0
+   },
+   "context": {
+    "raw": "1M",
+    "tokens": 1000000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "비공개",
+    "kind": "closed",
+    "ambiguous": false
+   },
+   "position": "종합 1등",
+   "urls": [
+    "https://artificialanalysis.ai/models/claude-opus-5-5",
+    "https://www.anthropic.com/claude/opus"
+   ],
+   "id": "anthropic-claude-opus-5-5"
+  },
+  {
+   "rank": 2,
+   "vendor": "OpenAI",
+   "model": "GPT-6 Astra",
+   "release": {
+    "raw": "9/3",
+    "dates": [
+     {
+      "date": "2026-09-03",
+      "label": null
+     }
+    ]
+   },
+   "index": 53,
+   "indexRaw": "53",
+   "price": {
+    "raw": "10 / 50",
+    "in": 10,
+    "out": 50,
+    "label": null,
+    "alt": [],
+    "flags": [],
+    "kind": "list",
+    "blend31": 20.0
+   },
+   "context": {
+    "raw": "1M",
+    "tokens": 1000000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "비공개",
+    "kind": "closed",
+    "ambiguous": false
+   },
+   "position": "코딩, 작업당 비용",
+   "urls": [
+    "https://artificialanalysis.ai/models/gpt-6-astra"
+   ],
+   "id": "openai-gpt-6-astra"
+  },
+  {
+   "rank": 3,
+   "vendor": "Google",
+   "model": "Gemini 4 Argon",
+   "release": {
+    "raw": "9/30",
+    "dates": [
+     {
+      "date": "2026-09-30",
+      "label": null
+     }
+    ]
+   },
+   "index": 53,
+   "indexRaw": "53",
+   "price": {
+    "raw": "2 / 10 도입가 (이후 4 / 20, 도입가 종료일 미공개)",
+    "in": 2,
+    "out": 10,
+    "label": "도입가",
+    "alt": [
+     {
+      "label": "이후",
+      "in": 4,
+      "out": 20,
+      "kind": "after"
+     }
+    ],
+    "flags": [
+     "undisclosed",
+     "temporary"
+    ],
+    "kind": "intro",
+    "blend31": 4.0
+   },
+   "context": {
+    "raw": "1M",
+    "tokens": 1000000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "비공개",
+    "kind": "closed",
+    "ambiguous": false
+   },
+   "position": "파트너 한정 공개",
+   "urls": [
+    "https://artificialanalysis.ai/models/gemini-4-argon",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+   ],
+   "id": "google-gemini-4-argon"
+  },
+  {
+   "rank": 4,
+   "vendor": "OpenAI",
+   "model": "GPT-6.1 Sol",
+   "release": {
+    "raw": "9/30",
+    "dates": [
+     {
+      "date": "2026-09-30",
+      "label": null
+     }
+    ]
+   },
+   "index": 52,
+   "indexRaw": "52",
+   "price": {
+    "raw": "2 / 10",
+    "in": 2,
+    "out": 10,
+    "label": null,
+    "alt": [],
+    "flags": [],
+    "kind": "list",
+    "blend31": 4.0
+   },
+   "context": {
+    "raw": "1.05M",
+    "tokens": 1050000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "비공개",
+    "kind": "closed",
+    "ambiguous": false
+   },
+   "position": "Astra급, 1/5 가격",
+   "urls": [
+    "https://artificialanalysis.ai/models/gpt-6-1-sol",
+    "https://endue.ai/blog/gpt-6-1-sol-independent-tests/"
+   ],
+   "id": "openai-gpt-6-1-sol"
+  },
+  {
+   "rank": 5,
+   "vendor": "Meta",
+   "model": "Muse Spark 1.3",
+   "release": {
+    "raw": "9/2",
+    "dates": [
+     {
+      "date": "2026-09-02",
+      "label": null
+     }
+    ]
+   },
+   "index": 48,
+   "indexRaw": "48",
+   "price": {
+    "raw": "1.25 / 4.25",
+    "in": 1.25,
+    "out": 4.25,
+    "label": null,
+    "alt": [],
+    "flags": [],
+    "kind": "list",
+    "blend31": 2.0
+   },
+   "context": {
+    "raw": "1M",
+    "tokens": 1000000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "비공개",
+    "kind": "closed",
+    "ambiguous": false
+   },
+   "position": "싼 에이전트",
+   "urls": [
+    "https://artificialanalysis.ai/models/muse-spark-1-3",
+    "https://www.heise.de/en/news/Muse-Spark-1-3-Meta-catches-up-to-top-models-11440367.html"
+   ],
+   "id": "meta-muse-spark-1-3"
+  },
+  {
+   "rank": 6,
+   "vendor": "xAI",
+   "model": "Grok 4.7",
+   "release": {
+    "raw": "9/21",
+    "dates": [
+     {
+      "date": "2026-09-21",
+      "label": null
+     }
+    ]
+   },
+   "index": 46,
+   "indexRaw": "46",
+   "price": {
+    "raw": "2 / 6 (200K 초과 4 / 12)",
+    "in": 2,
+    "out": 6,
+    "label": null,
+    "alt": [
+     {
+      "label": "200K 초과",
+      "in": 4,
+      "out": 12,
+      "kind": "tier"
+     }
+    ],
+    "flags": [],
+    "kind": "list",
+    "blend31": 3.0
+   },
+   "context": {
+    "raw": "500K",
+    "tokens": 500000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "비공개",
+    "kind": "closed",
+    "ambiguous": false
+   },
+   "position": "중간 가격",
+   "urls": [
+    "https://artificialanalysis.ai/models/grok-4-7",
+    "https://x.ai/news/grok-4-7"
+   ],
+   "id": "xai-grok-4-7"
+  },
+  {
+   "rank": 7,
+   "vendor": "Xiaomi",
+   "model": "MiMo-V2.6-Pro",
+   "release": {
+    "raw": "9/22",
+    "dates": [
+     {
+      "date": "2026-09-22",
+      "label": null
+     }
+    ]
+   },
+   "index": 46,
+   "indexRaw": "46",
+   "price": {
+    "raw": "0.435 / 0.87",
+    "in": 0.435,
+    "out": 0.87,
+    "label": null,
+    "alt": [],
+    "flags": [],
+    "kind": "list",
+    "blend31": 0.5437
+   },
+   "context": {
+    "raw": "1M",
+    "tokens": 1000000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "MIT",
+    "kind": "open",
+    "ambiguous": false
+   },
+   "position": "오픈 1등",
+   "urls": [
+    "https://artificialanalysis.ai/models/mimo-v2-6-pro"
+   ],
+   "id": "xiaomi-mimo-v2-6-pro"
+  },
+  {
+   "rank": 8,
+   "vendor": "Alibaba",
+   "model": "Qwen3.8 Max",
+   "release": {
+    "raw": "8/3",
+    "dates": [
+     {
+      "date": "2026-08-03",
+      "label": null
+     }
+    ]
+   },
+   "index": 45,
+   "indexRaw": "45",
+   "price": {
+    "raw": "2 / 6",
+    "in": 2,
+    "out": 6,
+    "label": null,
+    "alt": [],
+    "flags": [],
+    "kind": "list",
+    "blend31": 3.0
+   },
+   "context": {
+    "raw": "984K",
+    "tokens": 984000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "비공개 (API 전용, 오픈 가중치 Qwen3.8은 별개)",
+    "kind": "closed",
+    "ambiguous": true
+   },
+   "position": "중국 플래그십",
+   "urls": [
+    "https://artificialanalysis.ai/models/qwen3-8-max"
+   ],
+   "id": "alibaba-qwen3-8-max"
+  },
+  {
+   "rank": 9,
+   "vendor": "Z.ai",
+   "model": "GLM-5.3",
+   "release": {
+    "raw": "8/14 API, 8/28 가중치",
+    "dates": [
+     {
+      "date": "2026-08-14",
+      "label": "API"
+     },
+     {
+      "date": "2026-08-28",
+      "label": "가중치"
+     }
+    ]
+   },
+   "index": 45,
+   "indexRaw": "45",
+   "price": {
+    "raw": "1.40 / 4.40",
+    "in": 1.4,
+    "out": 4.4,
+    "label": null,
+    "alt": [],
+    "flags": [],
+    "kind": "list",
+    "blend31": 2.15
+   },
+   "context": {
+    "raw": "1M",
+    "tokens": 1000000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "조건부 공개",
+    "kind": "conditional",
+    "ambiguous": false
+   },
+   "position": "오픈 2위권",
+   "urls": [
+    "https://artificialanalysis.ai/models/glm-5-3",
+    "https://glm5.app/blog/glm-5-3-coding-plan"
+   ],
+   "id": "z-ai-glm-5-3"
+  },
+  {
+   "rank": 10,
+   "vendor": "Moonshot",
+   "model": "Kimi K3",
+   "release": {
+    "raw": "7/16",
+    "dates": [
+     {
+      "date": "2026-07-16",
+      "label": null
+     }
+    ]
+   },
+   "index": 44,
+   "indexRaw": "44",
+   "price": {
+    "raw": "3 / 15",
+    "in": 3,
+    "out": 15,
+    "label": null,
+    "alt": [],
+    "flags": [],
+    "kind": "list",
+    "blend31": 6.0
+   },
+   "context": {
+    "raw": "1.05M",
+    "tokens": 1050000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "조건부 공개",
+    "kind": "conditional",
+    "ambiguous": false
+   },
+   "position": "오픈 3위",
+   "urls": [
+    "https://artificialanalysis.ai/models/kimi-k3"
+   ],
+   "id": "moonshot-kimi-k3"
+  },
+  {
+   "rank": 11,
+   "vendor": "DeepSeek",
+   "model": "V4.1 Flash",
+   "release": {
+    "raw": "9/10",
+    "dates": [
+     {
+      "date": "2026-09-10",
+      "label": null
+     }
+    ]
+   },
+   "index": 39,
+   "indexRaw": "39",
+   "price": {
+    "raw": "0.30 / 1.20 피크 (오프피크 할인가는 아래 메모)",
+    "in": 0.3,
+    "out": 1.2,
+    "label": "피크",
+    "alt": [
+     {
+      "label": "오프피크",
+      "in": 0.15,
+      "out": 0.6,
+      "kind": "offpeak",
+      "fromNote": true
+     }
+    ],
+    "flags": [],
+    "kind": "list",
+    "blend31": 0.525
+   },
+   "context": {
+    "raw": "1M",
+    "tokens": 1000000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "MIT",
+    "kind": "open",
+    "ambiguous": false
+   },
+   "position": "대량 최저가",
+   "urls": [
+    "https://artificialanalysis.ai/models/deepseek-v4-1-flash",
+    "https://api-docs.deepseek.com/quick_start/pricing"
+   ],
+   "id": "deepseek-v4-1-flash"
+  },
+  {
+   "rank": 12,
+   "vendor": "MiniMax",
+   "model": "M3",
+   "release": {
+    "raw": "6/1",
+    "dates": [
+     {
+      "date": "2026-06-01",
+      "label": null
+     }
+    ]
+   },
+   "index": 29,
+   "indexRaw": "29",
+   "price": {
+    "raw": "0.30 / 1.20 (512K 초과 0.60 / 2.40)",
+    "in": 0.3,
+    "out": 1.2,
+    "label": null,
+    "alt": [
+     {
+      "label": "512K 초과",
+      "in": 0.6,
+      "out": 2.4,
+      "kind": "tier"
+     }
+    ],
+    "flags": [],
+    "kind": "list",
+    "blend31": 0.525
+   },
+   "context": {
+    "raw": "1M",
+    "tokens": 1000000,
+    "approx": false
+   },
+   "weights": {
+    "raw": "조건부 공개",
+    "kind": "conditional",
+    "ambiguous": false
+   },
+   "position": "장문 가성비",
+   "urls": [
+    "https://artificialanalysis.ai/models/minimax-m3",
+    "https://latenteast.com/news/minimax-m3-open-weights-price-cut"
+   ],
+   "id": "minimax-m3"
+  }
+ ],
+ "modelNotes": [
+  {
+   "text": "지수 기준: AA Intelligence Index v4.3.2, 2026-10-04 KST 조회값. 모델별 AA 페이지의 대표(최고) 추론 설정은 다음과 같다. Opus 5.5 max(기본 fallback 포함), GPT-6 Astra max, Gemini 4 Argon high, GPT-6.1 Sol max, Muse Spark 1.3 max, Grok 4.7 xhigh, GLM-5.3 max, Kimi K3 max, DeepSeek V4.1 Flash max. MiMo-V2.6-Pro, MiniMax M3, Qwen3.8 Max(AA 측정 버전 0902)는 페이지 제목에 설정명이 없어 미확인. 위 행별 AA 페이지 (v4.3.2 표기)",
+   "urls": [
+    "https://artificialanalysis.ai/models/qwen3-8-max"
+   ],
+   "models": [
+    "openai-gpt-6-astra",
+    "google-gemini-4-argon",
+    "openai-gpt-6-1-sol",
+    "meta-muse-spark-1-3",
+    "xai-grok-4-7",
+    "xiaomi-mimo-v2-6-pro",
+    "alibaba-qwen3-8-max",
+    "z-ai-glm-5-3",
+    "moonshot-kimi-k3",
+    "deepseek-v4-1-flash",
+    "minimax-m3"
+   ],
+   "head": "지수 기준",
+   "variant": false
+  },
+  {
+   "text": "DeepSeek V4.1 Flash: 대표가는 피크 0.30 / 1.20 (AA와 동일). 오프피크는 0.15 / 0.60. 피크 시간은 평일 01–04·06–10 UTC (KST 10–13·15–19시).",
+   "urls": [
+    "https://api-docs.deepseek.com/quick_start/pricing",
+    "https://buzzrag.com/article/deepseek-v41-flash-benchmarks-shine-real-tasks-falter"
+   ],
+   "models": [
+    "deepseek-v4-1-flash"
+   ],
+   "head": "DeepSeek V4.1 Flash",
+   "variant": false
+  },
+  {
+   "text": "Gemini 4 Argon: 도입가 종료일은 미공개 (\"introductory period\" 이후 4 / 20 적용이라고만 명시). 지금은 Fairwind 프로그램의 신뢰 사이버 방어 파트너에게만 배포 중이다. 가격을 먼저 공개한 이유는 정식 출시 예정 가격이기 때문이다. 구글은 개발자·기업·소비자 공개를 \"유료 API 고객과 Google AI Ultra 구독자부터\" 시작한다고 밝혔고, 날짜는 미공개.",
+   "urls": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+   ],
+   "models": [
+    "google-gemini-4-argon"
+   ],
+   "head": "Gemini 4 Argon",
+   "variant": false
+  },
+  {
+   "text": "Qwen3.8 Max: 가중치는 비공개(API 전용, AA \"Proprietary\"). 오픈 가중치 Qwen3.8 계열은 별개 모델이다. 문맥 984K는 AA 기준. Token Plan 한시 할인가 종료일은 미공개 (QwenCloud가 기간 변경 권리를 명시).",
+   "urls": [
+    "https://artificialanalysis.ai/models/qwen3-8-max",
+    "https://docs.qwencloud.com/token-plan/personal/token-plan-personal-overview"
+   ],
+   "models": [
+    "alibaba-qwen3-8-max"
+   ],
+   "head": "Qwen3.8 Max",
+   "variant": false
+  },
+  {
+   "text": "변형·프리뷰 (표에는 넣지 않음): Claude Opus 5.5 Fast 모드 $8 / $40. MiniMax M3.1-Flash-Preview는 MiniMax Code 전용.",
+   "urls": [
+    "https://www.anthropic.com/claude/opus",
+    "https://news.aibase.com/news/31365"
+   ],
+   "models": [
+    "anthropic-claude-opus-5-5"
+   ],
+   "head": "변형·프리뷰 (표에는 넣지 않음)",
+   "variant": true
+  }
+ ],
+ "plans": [
+  {
+   "urls": [
+    "https://claude.com/pricing"
+   ],
+   "vendor": "Anthropic",
+   "plansRaw": "Pro / Max 5x / Max 20x",
+   "pricesRaw": "20 (연간 결제 시 월 17) / 100 / 200",
+   "tiers": [
+    {
+     "name": "Pro",
+     "nameMissing": false,
+     "prices": [
+      20
+     ],
+     "priceText": "20",
+     "unknown": false,
+     "notes": [
+      "연간 결제 시 월 17"
+     ]
+    },
+    {
+     "name": "Max 5x",
+     "nameMissing": false,
+     "prices": [
+      100
+     ],
+     "priceText": "100",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Max 20x",
+     "nameMissing": false,
+     "prices": [
+      200
+     ],
+     "priceText": "200",
+     "unknown": null,
+     "notes": []
+    }
+   ],
+   "rowNotes": [],
+   "none": false,
+   "includes": "Opus 5.5 (Pro 이상)",
+   "limits": "5시간 + 주간",
+   "flags": []
+  },
+  {
+   "urls": [
+    "https://learn.chatgpt.com/docs/pricing",
+    "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+    "https://www.digitalmarketer.co.kr/class/chatgpt-astra-basics/chatgpt-plans-and-limits"
+   ],
+   "vendor": "OpenAI",
+   "plansRaw": "Go / Plus / Pro 100 / Pro 200 / Pro 500",
+   "pricesRaw": "8 / 20 (₩29,000, 2차 출처) / 100 / 200 / 500",
+   "tiers": [
+    {
+     "name": "Go",
+     "nameMissing": false,
+     "prices": [
+      8
+     ],
+     "priceText": "8",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Plus",
+     "nameMissing": false,
+     "prices": [
+      20
+     ],
+     "priceText": "20",
+     "unknown": false,
+     "notes": [
+      "₩29,000, 2차 출처"
+     ]
+    },
+    {
+     "name": "Pro 100",
+     "nameMissing": false,
+     "prices": [
+      100
+     ],
+     "priceText": "100",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Pro 200",
+     "nameMissing": false,
+     "prices": [
+      200
+     ],
+     "priceText": "200",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Pro 500",
+     "nameMissing": false,
+     "prices": [
+      500
+     ],
+     "priceText": "500",
+     "unknown": null,
+     "notes": []
+    }
+   ],
+   "rowNotes": [],
+   "none": false,
+   "includes": "Go: 없음, Plus: Astra·6.1 Sol은 Work·Codex만, Pro: 채팅 Astra(GPT-6 Pro), Astra Ultrafast는 Pro 500만",
+   "limits": "Plus 5시간당 Astra 5–45회, Pro는 5시간 한도 없음(주간만)",
+   "flags": []
+  },
+  {
+   "urls": [
+    "https://one.google.com/intl/en_us/about/google-ai-plans/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+    "https://www.newsis.com/view/NISX20261002_0003812074"
+   ],
+   "vendor": "Google",
+   "plansRaw": "AI Plus / AI Pro / AI Ultra 5x / AI Ultra 20x",
+   "pricesRaw": "미확인 / 19.99 (₩29,000) / 99.99 / 199.99",
+   "tiers": [
+    {
+     "name": "AI Plus",
+     "nameMissing": false,
+     "prices": [],
+     "priceText": "미확인",
+     "unknown": true,
+     "notes": []
+    },
+    {
+     "name": "AI Pro",
+     "nameMissing": false,
+     "prices": [
+      19.99
+     ],
+     "priceText": "19.99",
+     "unknown": false,
+     "notes": [
+      "₩29,000"
+     ]
+    },
+    {
+     "name": "AI Ultra 5x",
+     "nameMissing": false,
+     "prices": [
+      99.99
+     ],
+     "priceText": "99.99",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "AI Ultra 20x",
+     "nameMissing": false,
+     "prices": [
+      199.99
+     ],
+     "priceText": "199.99",
+     "unknown": null,
+     "notes": []
+    }
+   ],
+   "rowNotes": [],
+   "none": false,
+   "includes": "Argon 없음",
+   "limits": "무료 대비 Plus 2배, Pro 4배, 5시간 회복 + 주간",
+   "flags": [
+    "unverified"
+   ]
+  },
+  {
+   "urls": [
+    "https://dev.meta.ai/help/subscriptions/what-is-a-muse-code-subscription"
+   ],
+   "vendor": "Meta",
+   "plansRaw": "Muse Code Everyday / High / Power",
+   "pricesRaw": "5 / 15 / 50",
+   "tiers": [
+    {
+     "name": "Muse Code Everyday",
+     "nameMissing": false,
+     "prices": [
+      5
+     ],
+     "priceText": "5",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "High",
+     "nameMissing": false,
+     "prices": [
+      15
+     ],
+     "priceText": "15",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Power",
+     "nameMissing": false,
+     "prices": [
+      50
+     ],
+     "priceText": "50",
+     "unknown": null,
+     "notes": []
+    }
+   ],
+   "rowNotes": [],
+   "none": false,
+   "includes": "최신 Muse(1.3 추정)",
+   "limits": "5시간 10–50회, CLI 전용",
+   "flags": [
+    "estimate"
+   ]
+  },
+  {
+   "urls": [
+    "https://x.ai/pricing",
+    "https://felloai.com/grok-pricing/"
+   ],
+   "vendor": "xAI",
+   "plansRaw": "SuperGrok Lite / SuperGrok / SuperGrok Plus / SuperGrok Heavy",
+   "pricesRaw": "10 (Lite 미확인) / 30 / 100 / 300 (Heavy 미확인)",
+   "tiers": [
+    {
+     "name": "SuperGrok Lite",
+     "nameMissing": false,
+     "prices": [
+      10
+     ],
+     "priceText": "10",
+     "unknown": true,
+     "notes": [
+      "Lite 미확인"
+     ]
+    },
+    {
+     "name": "SuperGrok",
+     "nameMissing": false,
+     "prices": [
+      30
+     ],
+     "priceText": "30",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "SuperGrok Plus",
+     "nameMissing": false,
+     "prices": [
+      100
+     ],
+     "priceText": "100",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "SuperGrok Heavy",
+     "nameMissing": false,
+     "prices": [
+      300
+     ],
+     "priceText": "300",
+     "unknown": true,
+     "notes": [
+      "Heavy 미확인"
+     ]
+    }
+   ],
+   "rowNotes": [],
+   "none": false,
+   "includes": "Grok 4.7 미확인 (x.ai/pricing 표기는 Grok 4.6)",
+   "limits": "주간",
+   "flags": [
+    "unverified"
+   ]
+  },
+  {
+   "urls": [
+    "https://mimo.mi.com/docs/en-US/price/token-plan"
+   ],
+   "vendor": "Xiaomi",
+   "plansRaw": "Token Plan Lite / Standard / Pro / Max",
+   "pricesRaw": "6 / 16 / 50 / 100",
+   "tiers": [
+    {
+     "name": "Token Plan Lite",
+     "nameMissing": false,
+     "prices": [
+      6
+     ],
+     "priceText": "6",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Standard",
+     "nameMissing": false,
+     "prices": [
+      16
+     ],
+     "priceText": "16",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Pro",
+     "nameMissing": false,
+     "prices": [
+      50
+     ],
+     "priceText": "50",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Max",
+     "nameMissing": false,
+     "prices": [
+      100
+     ],
+     "priceText": "100",
+     "unknown": null,
+     "notes": []
+    }
+   ],
+   "rowNotes": [],
+   "none": false,
+   "includes": "MiMo-V2.6",
+   "limits": "월 크레딧",
+   "flags": []
+  },
+  {
+   "urls": [
+    "https://docs.qwencloud.com/token-plan/personal/token-plan-personal-overview"
+   ],
+   "vendor": "Alibaba",
+   "plansRaw": "Qwen Token Plan Lite / Essential / Standard / Pro",
+   "pricesRaw": "6 / 10 / 18 / 68 (한시가, 정가 8·16·25·80, 종료일 미공개)",
+   "tiers": [
+    {
+     "name": "Qwen Token Plan Lite",
+     "nameMissing": false,
+     "prices": [
+      6
+     ],
+     "priceText": "6",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Essential",
+     "nameMissing": false,
+     "prices": [
+      10
+     ],
+     "priceText": "10",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Standard",
+     "nameMissing": false,
+     "prices": [
+      18
+     ],
+     "priceText": "18",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Pro",
+     "nameMissing": false,
+     "prices": [
+      68
+     ],
+     "priceText": "68",
+     "unknown": null,
+     "notes": []
+    }
+   ],
+   "rowNotes": [
+    "한시가, 정가 8·16·25·80, 종료일 미공개"
+   ],
+   "none": false,
+   "includes": "Qwen3.8 Max, GLM-5.3, DeepSeek",
+   "limits": "주간 한도 폐지",
+   "flags": [
+    "temporary",
+    "undisclosed"
+   ]
+  },
+  {
+   "urls": [
+    "https://docs.z.ai/devpack/overview.md"
+   ],
+   "vendor": "Z.ai",
+   "plansRaw": "GLM Coding Plan Lite / Pro / Max",
+   "pricesRaw": "18 / 80 / 168",
+   "tiers": [
+    {
+     "name": "GLM Coding Plan Lite",
+     "nameMissing": false,
+     "prices": [
+      18
+     ],
+     "priceText": "18",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Pro",
+     "nameMissing": false,
+     "prices": [
+      80
+     ],
+     "priceText": "80",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Max",
+     "nameMissing": false,
+     "prices": [
+      168
+     ],
+     "priceText": "168",
+     "unknown": null,
+     "notes": []
+    }
+   ],
+   "rowNotes": [],
+   "none": false,
+   "includes": "GLM-5.3",
+   "limits": "5시간 + 주간",
+   "flags": []
+  },
+  {
+   "urls": [
+    "https://www.kimi.ai/help/membership/membership-pricing"
+   ],
+   "vendor": "Moonshot",
+   "plansRaw": "Kimi Moderato / Allegretto / Allegro / Vivace",
+   "pricesRaw": "19 / 39 / 99 / 199",
+   "tiers": [
+    {
+     "name": "Kimi Moderato",
+     "nameMissing": false,
+     "prices": [
+      19
+     ],
+     "priceText": "19",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Allegretto",
+     "nameMissing": false,
+     "prices": [
+      39
+     ],
+     "priceText": "39",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Allegro",
+     "nameMissing": false,
+     "prices": [
+      99
+     ],
+     "priceText": "99",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Vivace",
+     "nameMissing": false,
+     "prices": [
+      199
+     ],
+     "priceText": "199",
+     "unknown": null,
+     "notes": []
+    }
+   ],
+   "rowNotes": [],
+   "none": false,
+   "includes": "Kimi K3",
+   "limits": "크레딧 풀",
+   "flags": []
+  },
+  {
+   "urls": [
+    "https://api-docs.deepseek.com/quick_start/pricing"
+   ],
+   "vendor": "DeepSeek",
+   "plansRaw": "구독 없음",
+   "pricesRaw": "앱 무료, API 종량",
+   "tiers": [],
+   "rowNotes": [
+    "앱 무료, API 종량"
+   ],
+   "none": true,
+   "includes": "V4.1 Flash",
+   "limits": "혼잡 시 제한",
+   "flags": []
+  },
+  {
+   "urls": [
+    "https://platform.minimax.io/docs/token-plan/intro"
+   ],
+   "vendor": "MiniMax",
+   "plansRaw": "Token Plan Plus / Max / Ultra",
+   "pricesRaw": "22 / 55 / 132",
+   "tiers": [
+    {
+     "name": "Token Plan Plus",
+     "nameMissing": false,
+     "prices": [
+      22
+     ],
+     "priceText": "22",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Max",
+     "nameMissing": false,
+     "prices": [
+      55
+     ],
+     "priceText": "55",
+     "unknown": null,
+     "notes": []
+    },
+    {
+     "name": "Ultra",
+     "nameMissing": false,
+     "prices": [
+      132
+     ],
+     "priceText": "132",
+     "unknown": null,
+     "notes": []
+    }
+   ],
+   "rowNotes": [],
+   "none": false,
+   "includes": "M3",
+   "limits": "5시간 + 주간 (일부 2차 출처는 20·50·120 표기)",
+   "flags": []
+  }
+ ],
+ "planCurrency": "USD/월",
+ "discounts": [
+  {
+   "urls": [
+    "https://www.newsis.com/view/NISX20261002_0003812074"
+   ],
+   "target": "Google AI Pro 한국",
+   "content": "신규 연간 40% 할인 ₩290,000→₩174,000",
+   "deadlineRaw": "2026년 10/31",
+   "kind": "dated",
+   "milestones": [
+    {
+     "date": "2026-10-31",
+     "label": "마감"
+    }
+   ],
+   "percents": [
+    "40"
+   ],
+   "vendors": [
+    "Google"
+   ],
+   "krw": [
+    290000,
+    174000
+   ],
+   "check": {
+    "calcPercent": 40.0,
+    "statedPercent": 40,
+    "ok": true
+   }
+  },
+  {
+   "urls": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/"
+   ],
+   "target": "Google AI 대학생",
+   "content": "미국: AI Pro 1년 무료. 그 외 140여 개 시장(미국·볼리비아·알바니아·캐나다·마카오·홍콩·튀니지 제외): AI Plus 1년 무료",
+   "deadlineRaw": "2026년 12/31 신청",
+   "kind": "dated",
+   "milestones": [
+    {
+     "date": "2026-12-31",
+     "label": "신청"
+    }
+   ],
+   "percents": [],
+   "vendors": [
+    "Google"
+   ],
+   "krw": []
+  },
+  {
+   "urls": [
+    "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students"
+   ],
+   "target": "ChatGPT Plus 학생",
+   "content": "미국 대학생 4개월 무료",
+   "deadlineRaw": "2026년 10/31 신청",
+   "kind": "dated",
+   "milestones": [
+    {
+     "date": "2026-10-31",
+     "label": "신청"
+    }
+   ],
+   "percents": [],
+   "vendors": [
+    "OpenAI"
+   ],
+   "krw": []
+  },
+  {
+   "urls": [
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/"
+   ],
+   "target": "Claude Code 크레딧",
+   "content": "Pro $100 / Max $250 (클라우드 세션)",
+   "deadlineRaw": "2026년 10/7 신청, 2026년 11/4 소멸",
+   "kind": "dated",
+   "milestones": [
+    {
+     "date": "2026-10-07",
+     "label": "신청"
+    },
+    {
+     "date": "2026-11-04",
+     "label": "소멸"
+    }
+   ],
+   "percents": [],
+   "vendors": [
+    "Anthropic"
+   ],
+   "krw": []
+  },
+  {
+   "urls": [
+    "https://docs.qwencloud.com/token-plan/personal/token-plan-personal-overview"
+   ],
+   "target": "Qwen Token Plan",
+   "content": "한시 할인가 + 야간(22–08시 UTC+8) 차감 할인 (Qwen3.8 Max 60%, DeepSeek 50%)",
+   "deadlineRaw": "미공개",
+   "kind": "undisclosed",
+   "milestones": [],
+   "percents": [
+    "60",
+    "50"
+   ],
+   "vendors": [
+    "Alibaba",
+    "DeepSeek"
+   ],
+   "krw": []
+  },
+  {
+   "urls": [
+    "https://aicoder.com/news/news-20261003-spacexai-grok-47-ramp-router-50-off",
+    "https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve"
+   ],
+   "target": "Grok 4.7",
+   "content": "Ramp Router 50% (2차 출처), Vercel AI Gateway 40% (이미 종료)",
+   "deadlineRaw": "Ramp 2026년 10/6, Vercel 2026년 9/27",
+   "kind": "dated",
+   "milestones": [
+    {
+     "date": "2026-09-27",
+     "label": "Vercel"
+    },
+    {
+     "date": "2026-10-06",
+     "label": "Ramp"
+    }
+   ],
+   "percents": [
+    "50",
+    "40"
+   ],
+   "vendors": [
+    "xAI"
+   ],
+   "krw": []
+  },
+  {
+   "urls": [
+    "https://news.aibase.com/news/31365"
+   ],
+   "target": "MiniMax Code",
+   "content": "출석 포인트 2배 (9/28 시작)",
+   "deadlineRaw": "2026년 10/7",
+   "kind": "dated",
+   "milestones": [
+    {
+     "date": "2026-10-07",
+     "label": "마감"
+    }
+   ],
+   "percents": [],
+   "vendors": [
+    "MiniMax"
+   ],
+   "krw": []
+  },
+  {
+   "urls": [
+    "https://www.heise.de/en/news/Muse-Spark-1-3-Meta-catches-up-to-top-models-11440367.html"
+   ],
+   "target": "Muse Spark 1.3",
+   "content": "학습 제공 시 $0.10 / $0.20",
+   "deadlineRaw": "상시",
+   "kind": "ongoing",
+   "milestones": [],
+   "percents": [],
+   "vendors": [
+    "Meta"
+   ],
+   "krw": []
+  },
+  {
+   "urls": [
+    "https://docs.z.ai/devpack/overview.md",
+    "https://www.kimi.ai/help/membership/membership-pricing",
+    "https://mimo.mi.com/docs/en-US/price/token-plan"
+   ],
+   "target": "GLM·Kimi·MiMo",
+   "content": "연간 결제 할인 (GLM 30%, Kimi 약 20%, MiMo 12%)",
+   "deadlineRaw": "상시",
+   "kind": "ongoing",
+   "milestones": [],
+   "percents": [
+    "30",
+    "20",
+    "12"
+   ],
+   "vendors": [
+    "Xiaomi",
+    "Z.ai",
+    "Moonshot"
+   ],
+   "krw": []
+  },
+  {
+   "urls": [
+    "https://api-docs.deepseek.com/quick_start/pricing"
+   ],
+   "target": "DeepSeek API",
+   "content": "오프피크 50%",
+   "deadlineRaw": "상시",
+   "kind": "ongoing",
+   "milestones": [],
+   "percents": [
+    "50"
+   ],
+   "vendors": [
+    "DeepSeek"
+   ],
+   "krw": []
+  }
+ ],
+ "features": [
+  {
+   "urls": [
+    "https://www.anthropic.com/claude/opus",
+    "https://support.claude.com/en/articles/12138966-release-notes",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/"
+   ],
+   "vendor": "Anthropic",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "Opus 5.5 9/22 + Fast 모드 $8·$40",
+     "date": "2026-09-22"
+    },
+    {
+     "text": "Cowork·Design·Slides·Docs 전 대화 사용 9/16",
+     "date": "2026-09-16"
+    },
+    {
+     "text": "Claude Code 클라우드 세션 정식 9/23경",
+     "date": "2026-09-23"
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://learn.chatgpt.com/docs/whats-new/devday-2026",
+    "https://endue.ai/blog/gpt-6-1-sol-independent-tests/",
+    "https://learn.chatgpt.com/docs/pricing"
+   ],
+   "vendor": "OpenAI",
+   "context": "DevDay 9/29",
+   "contextDate": "2026-09-29",
+   "items": [
+    {
+     "text": "Dots 에이전트",
+     "date": null
+    },
+    {
+     "text": "ChatGPT Space",
+     "date": null
+    },
+    {
+     "text": "GPT-6.1 Sol",
+     "date": null
+    },
+    {
+     "text": "Codex Astra Ultrafast",
+     "date": null
+    },
+    {
+     "text": "Slack·Teams 연동",
+     "date": null
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "https://www.theverge.com/tech/991837/geminis-daily-brief-is-now-available-to-everyone-in-the-us",
+    "https://support.google.com/gemini/answer/17171264"
+   ],
+   "vendor": "Google",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "Gemini 4 Argon 9/30",
+     "date": "2026-09-30"
+    },
+    {
+     "text": "Daily Brief 미국 무료 확대 날짜 미확인",
+     "date": null
+    },
+    {
+     "text": "Gemini Spark Pro 확대",
+     "date": null
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://x.ai/news/grok-4-7",
+    "https://x.ai/news/grok-build-memory"
+   ],
+   "vendor": "xAI",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "Grok 4.7 9/21",
+     "date": "2026-09-21"
+    },
+    {
+     "text": "Grok Build 메모리 9/16",
+     "date": "2026-09-16"
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+    "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+   ],
+   "vendor": "Meta",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "Muse 개인 에이전트 앱 9/8 미국",
+     "date": "2026-09-08"
+    },
+    {
+     "text": "Meta One 구독 9/15",
+     "date": "2026-09-15"
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://yangtzeer.com/news/heavy-hitters/qwenwork-ai-workspace-teams-100/",
+    "https://docs.qwencloud.com/token-plan/personal/token-plan-personal-overview"
+   ],
+   "vendor": "Alibaba",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "QwenWork 100인 작업공간 9월",
+     "date": null
+    },
+    {
+     "text": "Token Plan 주간 한도 폐지 9/22",
+     "date": "2026-09-22"
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://zcode.z.ai/en/changelog"
+   ],
+   "vendor": "Z.ai",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "ZCode 다중 하위 에이전트 9월",
+     "date": null
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://www.kimi.com/code/docs/en/kimi-code/whats-new.html"
+   ],
+   "vendor": "Moonshot",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "Kimi Code Goal Mode 9월",
+     "date": null
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://api-docs.deepseek.com/news/news260910"
+   ],
+   "vendor": "DeepSeek",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "V4.1 Flash 이미지 입력 9/10",
+     "date": "2026-09-10"
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://news.aibase.com/news/31365"
+   ],
+   "vendor": "MiniMax",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "M3.1-Flash-Preview 9/27 MiniMax Code 전용",
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "urls": [
+    "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+    "https://mimo.mi.com/docs/en-US/price/token-plan"
+   ],
+   "vendor": "Xiaomi",
+   "context": null,
+   "contextDate": null,
+   "items": [
+    {
+     "text": "MiMo-V2.6 출시 9/22",
+     "date": "2026-09-22"
+    },
+    {
+     "text": "V2.5 10/21 종료",
+     "date": "2026-10-21"
+    }
+   ]
+  }
+ ],
+ "reactions": [
+  {
+   "urls": [
+    "https://www.youtube.com/watch?v=ejjBbaq9RmY"
+   ],
+   "model": "Opus 5.5",
+   "modelId": "anthropic-claude-opus-5-5",
+   "matchScore": 1.0,
+   "creator": "Theo - t3.gg, YouTube",
+   "sentimentRaw": "긍정",
+   "sentiment": "pos",
+   "text": "장시간 코딩 최고, 단 Max 추론은 비효율",
+   "parts": [
+    "장시간 코딩 최고",
+    "단 Max 추론은 비효율"
+   ]
+  },
+  {
+   "urls": [
+    "https://www.youtube.com/watch?v=zObYdmNB2Bo"
+   ],
+   "model": "Opus 5.5",
+   "modelId": "anthropic-claude-opus-5-5",
+   "matchScore": 1.0,
+   "creator": "How I AI, YouTube",
+   "sentimentRaw": "긍정",
+   "sentiment": "pos",
+   "text": "코딩·장기 작업·프론트엔드 호평, 다소 보수적",
+   "parts": [
+    "코딩·장기 작업·프론트엔드 호평",
+    "다소 보수적"
+   ]
+  },
+  {
+   "urls": [
+    "https://www.ai-to-be-aware-of.com/videos/17758"
+   ],
+   "model": "Grok 4.7",
+   "modelId": "xai-grok-4-7",
+   "matchScore": 1.0,
+   "creator": "AICodeKing, YouTube",
+   "sentimentRaw": "부정",
+   "sentiment": "neg",
+   "text": "비용 증가, 프론트엔드·지시 따르기 퇴보",
+   "parts": [
+    "비용 증가",
+    "프론트엔드·지시 따르기 퇴보"
+   ]
+  },
+  {
+   "urls": [
+    "https://www.youtube.com/watch?v=lnzijicbAzg"
+   ],
+   "model": "MiMo-V2.6-Flash vs Pro",
+   "modelId": "xiaomi-mimo-v2-6-pro",
+   "matchScore": 0.6,
+   "creator": "AICodeKing, YouTube",
+   "sentimentRaw": "긍정",
+   "sentiment": "pos",
+   "text": "실사용 과제에서 Flash가 Pro보다 우수, Flash 가성비",
+   "parts": [
+    "실사용 과제에서 Flash가 Pro보다 우수",
+    "Flash 가성비"
+   ]
+  },
+  {
+   "urls": [
+    "https://buzzrag.com/article/deepseek-v41-flash-benchmarks-shine-real-tasks-falter"
+   ],
+   "model": "DeepSeek V4.1 Flash",
+   "modelId": "deepseek-v4-1-flash",
+   "matchScore": 1.0,
+   "creator": "Matthew Berman, YouTube",
+   "sentimentRaw": "대체로 긍정",
+   "sentiment": "mostly_pos",
+   "text": "좋은 일꾼, 상태 추적 약함",
+   "parts": [
+    "좋은 일꾼",
+    "상태 추적 약함"
+   ]
+  },
+  {
+   "urls": [
+    "https://endue.ai/blog/gpt-6-1-sol-independent-tests/"
+   ],
+   "model": "GPT-6.1 Sol",
+   "modelId": "openai-gpt-6-1-sol",
+   "matchScore": 1.0,
+   "creator": "r/codex 병목 사례·로켓 장면 비교 게시물, Hacker News 댓글, YouTube AIex The AI Workbench — endue 정리",
+   "sentimentRaw": "긍정",
+   "sentiment": "pos",
+   "text": "가격 대비 성능, 시각 결과물은 Claude 우세",
+   "parts": [
+    "가격 대비 성능",
+    "시각 결과물은 Claude 우세"
+   ]
+  },
+  {
+   "urls": [
+    "https://www.youtube.com/watch?v=ctP3nhMwsEM"
+   ],
+   "model": "Gemini 4 Argon",
+   "modelId": "google-gemini-4-argon",
+   "matchScore": 1.0,
+   "creator": "AICodeKing, YouTube",
+   "sentimentRaw": "혼합",
+   "sentiment": "mixed",
+   "text": "실무 선두, 코딩 들쭉날쭉",
+   "parts": [
+    "실무 선두",
+    "코딩 들쭉날쭉"
+   ]
+  },
+  {
+   "urls": [
+    "https://dev.to/gosukiwi/muse-spark-13-a-review-3h7"
+   ],
+   "model": "Muse Spark 1.3",
+   "modelId": "meta-muse-spark-1-3",
+   "matchScore": 1.0,
+   "creator": "Federico Ramirez, dev.to",
+   "sentimentRaw": "혼합",
+   "sentiment": "mixed",
+   "text": "요금제 넉넉, 도구 미숙",
+   "parts": [
+    "요금제 넉넉",
+    "도구 미숙"
+   ]
+  }
+ ],
+ "uncertainLines": [
+  "| 3 | Google | Gemini 4 Argon | 9/30 | 53 | 2 / 10 도입가 (이후 4 / 20, 도입가 종료일 미공개) | 1M | 비공개 | 파트너 한정 공개 |   |",
+  "| 9 | Z.ai | GLM-5.3 | 8/14 API, 8/28 가중치 | 45 | 1.40 / 4.40 | 1M | 조건부 공개 | 오픈 2위권 |   |",
+  "| 10 | Moonshot | Kimi K3 | 7/16 | 44 | 3 / 15 | 1.05M | 조건부 공개 | 오픈 3위 |  |",
+  "| 12 | MiniMax | M3 | 6/1 | 29 | 0.30 / 1.20 (512K 초과 0.60 / 2.40) | 1M | 조건부 공개 | 장문 가성비 |   |",
+  "- 지수 기준: AA Intelligence Index v4.3.2, 2026-10-04 KST 조회값. 모델별 AA 페이지의 대표(최고) 추론 설정은 다음과 같다. Opus 5.5 max(기본 fallback 포함), GPT-6 Astra max, Gemini 4 Argon high, GPT-6.1 Sol max, Muse Spark 1.3 max, Grok 4.7 xhigh, GLM-5.3 max, Kimi K3 max, DeepSeek V4.1 Flash max. MiMo-V2.6-Pro, MiniMax M3, Qwen3.8 Max(AA 측정 버전 0902)는 페이지 제목에 설정명이 없어 미확인. 위 행별 AA 페이지 (v4.3.2 표기)",
+  "- Gemini 4 Argon: 도입가 종료일은 미공개 (\"introductory period\" 이후 4 / 20 적용이라고만 명시). 지금은 Fairwind 프로그램의 신뢰 사이버 방어 파트너에게만 배포 중이다. 가격을 먼저 공개한 이유는 정식 출시 예정 가격이기 때문이다. 구글은 개발자·기업·소비자 공개를 \"유료 API 고객과 Google AI Ultra 구독자부터\" 시작한다고 밝혔고, 날짜는 미공개.",
+  "- Qwen3.8 Max: 가중치는 비공개(API 전용, AA \"Proprietary\"). 오픈 가중치 Qwen3.8 계열은 별개 모델이다. 문맥 984K는 AA 기준. Token Plan 한시 할인가 종료일은 미공개 (QwenCloud가 기간 변경 권리를 명시).",
+  "| Google | AI Plus / AI Pro / AI Ultra 5x / AI Ultra 20x | 미확인 / 19.99 (₩29,000) / 99.99 / 199.99 | Argon 없음 | 무료 대비 Plus 2배, Pro 4배, 5시간 회복 + 주간 |    |",
+  "| Meta | Muse Code Everyday / High / Power | 5 / 15 / 50 | 최신 Muse(1.3 추정) | 5시간 10–50회, CLI 전용 |  |",
+  "| xAI | SuperGrok Lite / SuperGrok / SuperGrok Plus / SuperGrok Heavy | 10 (Lite 미확인) / 30 / 100 / 300 (Heavy 미확인) | Grok 4.7 미확인 (x.ai/pricing 표기는 Grok 4.6) | 주간 |   |",
+  "| Alibaba | Qwen Token Plan Lite / Essential / Standard / Pro | 6 / 10 / 18 / 68 (한시가, 정가 8·16·25·80, 종료일 미공개) | Qwen3.8 Max, GLM-5.3, DeepSeek | 주간 한도 폐지 |  |",
+  "| Qwen Token Plan | 한시 할인가 + 야간(22–08시 UTC+8) 차감 할인 (Qwen3.8 Max 60%, DeepSeek 50%) | 미공개 |  |",
+  "| GLM·Kimi·MiMo | 연간 결제 할인 (GLM 30%, Kimi 약 20%, MiMo 12%) | 상시 |    |",
+  "- Google: Gemini 4 Argon 9/30, Daily Brief 미국 무료 확대 날짜 미확인, Gemini Spark Pro 확대"
+ ],
+ "store": {
+  "path": "/workspace/data/ai",
+  "exists": true,
+  "graded": false,
+  "files": [
+   {
+    "file": "benchmarks/ai_benchmarks_aa_index_20261014.json",
+    "hasGrade": true,
+    "hasCollectedAt": true
+   },
+   {
+    "file": "models/ai_models_events_20261014.json",
+    "hasGrade": true,
+    "hasCollectedAt": true
+   },
+   {
+    "file": "models/aidash_data.json",
+    "hasGrade": true,
+    "hasCollectedAt": true
+   },
+   {
+    "file": "pricing/ai_pricing_api_20261014.json",
+    "hasGrade": true,
+    "hasCollectedAt": true
+   },
+   {
+    "file": "pricing/ai_pricing_promos_20261014.json",
+    "hasGrade": true,
+    "hasCollectedAt": true
+   },
+   {
+    "file": "sources/aidash_data_20261004_snapshot.json",
+    "hasGrade": false,
+    "hasCollectedAt": false
+   },
+   {
+    "file": "x/x_ai_claims_verification_20261014.json",
+    "hasGrade": true,
+    "hasCollectedAt": true
+   },
+   {
+    "file": "x/x_ai_posts_20261014.json",
+    "hasGrade": true,
+    "hasCollectedAt": true
+   }
+  ]
+ },
+ "warnings": [
+  "반응 모델 매칭 부분: \"MiMo-V2.6-Flash vs Pro\" → xiaomi-mimo-v2-6-pro (0.6)"
+ ]
+}

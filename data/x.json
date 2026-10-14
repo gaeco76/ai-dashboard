@@ -1,0 +1,1984 @@
+{
+ "sourceFile": "x_ai_posts_20261014.json",
+ "sourcePath": "/workspace/data/ai/x/x_ai_posts_20261014.json",
+ "collectedAt": "2026-10-14",
+ "generatedAt": "2026-10-15T05:22:58+09:00",
+ "models": [
+  "Claude",
+  "GPT",
+  "Grok",
+  "Gemini",
+  "Muse",
+  "Qwen",
+  "GLM",
+  "DeepSeek"
+ ],
+ "posts": [
+  {
+   "id": "2110100913738359211",
+   "search": "popular",
+   "author": "ninzaverse",
+   "url": "https://x.com/ninzaverse/status/2110100913738359211",
+   "text": "These AI models launched in 2026 alone. And the year isn’t even over.\n\nThe list so far, as of October 14 👇\n\nFind your flag. Is your country winning the AI race?\n\nGPT-5.3 Instant 🇺🇸\nGPT-5.3-Codex 🇺🇸\nGPT-5.3-Codex-Spark 🇺🇸\nGPT-5.4 🇺🇸\nGPT-5.4 Pro 🇺🇸\nGPT-5.4 mini 🇺🇸\nGPT-5.4 nano 🇺🇸",
+   "models": [
+    "GPT"
+   ],
+   "likes": 1,
+   "reposts": 1,
+   "replies": 0,
+   "views": 204,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/ninzaverse/status/2110100913738359211",
+   "created_utc": "2026-10-13T20:10:36.000Z",
+   "kst": "2026-10-14 05:10",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "rank"
+   ],
+   "topic": "rank",
+   "eng": 3,
+   "claims": [
+    21
+   ]
+  },
+  {
+   "id": "2109994222581366994",
+   "search": "popular",
+   "author": "NonTechOps",
+   "url": "https://x.com/NonTechOps/status/2109994222581366994",
+   "text": "Frontier Labs and their Latest models \n\nAnthropic ~~ Claude Opus 5.5\n\nOpenAI ~~ GPT 6.1 Astra\n\nMoonshot AI ~~ Kimi K3 \n\nZAI ~~ GLM 5.3\n\nGoogle ~~ Gemini 4 Argon \n\nMeta ~~ Muse Wonder\n\nDeepSeek AI ~~ DeepSeek v4 Pro\n\nQwen Studio ~~ Qwen-3.8 Max\n\nFollow for more updates... https://t.co/rT2Qz1oT0o",
+   "models": [
+    "Claude",
+    "GPT",
+    "Gemini",
+    "Muse",
+    "Qwen",
+    "GLM",
+    "DeepSeek"
+   ],
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0,
+   "views": 5,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/NonTechOps/status/2109994222581366994",
+   "created_utc": "2026-10-13T13:06:39.000Z",
+   "kst": "2026-10-13 22:06",
+   "kstHour": "2026-10-13 22:00",
+   "topics": [
+    "argon",
+    "rank"
+   ],
+   "topic": "argon",
+   "eng": 1,
+   "claims": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "2110085882514444628",
+   "search": "popular",
+   "author": "LavanPath",
+   "url": "https://x.com/LavanPath/status/2110085882514444628",
+   "text": "AI Power Rankings - October 13, 2026\n\n1. Claude Opus 5.5\n2. GTP-6 Astra\n3. Gemini 4 Argon\n4. Muse Wonder Full\n5. Kimi K3\n6. Grok 4.7\n7. GLM-5.3\n8. Qwen 3.8\n9. Deepseek V4.1\n10. Mimo-V2.6\n\nMuse Wonder Full has great benchmarks, but it doesn't stack up to the top 3 in my tests. https://t.co/KkRgQ2x80v",
+   "models": [
+    "Claude",
+    "Grok",
+    "Gemini",
+    "Muse",
+    "Qwen",
+    "GLM",
+    "DeepSeek"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 131,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/LavanPath/status/2110085882514444628",
+   "created_utc": "2026-10-13T19:10:52.000Z",
+   "kst": "2026-10-14 04:10",
+   "kstHour": "2026-10-14 04:00",
+   "topics": [
+    "argon",
+    "rank"
+   ],
+   "topic": "argon",
+   "eng": 0,
+   "claims": [
+    4
+   ]
+  },
+  {
+   "id": "2109901494413860866",
+   "search": "popular",
+   "author": "SportEvalAI",
+   "url": "https://x.com/SportEvalAI/status/2109901494413860866",
+   "text": "🚨 Champions League: TOTAL CONSENSUS!\n⚽ Atlético Madrid vs Manchester United | 8:00 PM BST / 3:00 PM ET\n\nWe ran all 9 AI models on this clash. The result is unprecedented 👇\n\n🤯 9/9 Models predict EXACTLY the same score: 2-1 Atlético Madrid.\n• The \"2-1\" Club: Claude, GPT, Seed, https://t.co/xnOtYU5SyI",
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1,
+   "views": 79,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/SportEvalAI/status/2109901494413860866",
+   "created_utc": "2026-10-13T06:58:10.000Z",
+   "kst": "2026-10-13 15:58",
+   "kstHour": "2026-10-13 15:00",
+   "topics": [
+    "other"
+   ],
+   "topic": "other",
+   "eng": 1
+  },
+  {
+   "id": "2110061795545059655",
+   "search": "popular",
+   "author": "fakty_o_ai",
+   "url": "https://x.com/fakty_o_ai/status/2110061795545059655",
+   "text": "Popołudniowy wtorkowy skrót FAKTÓW o AI 🤖 13.10\n\n- 🎨 Alibaba udostępnia model Qwen-Image-2.1-Turbo redukujący kroki generowania obrazu z 40 do 8\n- 🛡️ Anthropic ostrzega przed ryzykiem cyberataków z wykorzystaniem otwartego modelu GLM-5.3\n- 🔍 Anthropic i OpenAI dążyły do",
+   "models": [
+    "Qwen",
+    "GLM"
+   ],
+   "likes": 5,
+   "reposts": 2,
+   "replies": 0,
+   "views": 79,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/fakty_o_ai/status/2110061795545059655",
+   "created_utc": "2026-10-13T17:35:09.000Z",
+   "kst": "2026-10-14 02:35",
+   "kstHour": "2026-10-14 02:00",
+   "topics": [
+    "news"
+   ],
+   "topic": "news",
+   "eng": 9,
+   "claims": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "2110069592206745833",
+   "search": "popular",
+   "author": "AIDailyNews_2x",
+   "url": "https://x.com/AIDailyNews_2x/status/2110069592206745833",
+   "text": "Tuesday afternoon AI FACTS roundup 🤖 13.10\n\n- 🎨 Alibaba releases Qwen-Image-2.1-Turbo, reducing image generation steps from 40 to 8\n- 🛡️ Anthropic warns of cyberattack risks involving the open GLM-5.3 model\n- 🔍 Anthropic and OpenAI sought control over publications by external",
+   "models": [
+    "Qwen",
+    "GLM"
+   ],
+   "likes": 3,
+   "reposts": 0,
+   "replies": 0,
+   "views": 135,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/AIDailyNews_2x/status/2110069592206745833",
+   "created_utc": "2026-10-13T18:06:08.000Z",
+   "kst": "2026-10-14 03:06",
+   "kstHour": "2026-10-14 03:00",
+   "topics": [
+    "news"
+   ],
+   "topic": "news",
+   "eng": 3,
+   "claims": [
+    7
+   ]
+  },
+  {
+   "id": "2109908536285163817",
+   "search": "popular",
+   "author": "DukeHarewood",
+   "url": "https://x.com/DukeHarewood/status/2109908536285163817",
+   "text": "https://t.co/hzXB2ZZ3Sm",
+   "models": [],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 8,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/DukeHarewood/status/2109908536285163817",
+   "created_utc": "2026-10-13T07:26:09.000Z",
+   "kst": "2026-10-13 16:26",
+   "kstHour": "2026-10-13 16:00",
+   "topics": [
+    "other"
+   ],
+   "topic": "other",
+   "eng": 0
+  },
+  {
+   "id": "2109932032054665382",
+   "search": "popular",
+   "author": "web3l0var",
+   "url": "https://x.com/web3l0var/status/2109932032054665382",
+   "text": "𝗢𝗡𝗘 𝗗𝗢𝗢𝗥 𝗧𝗢 𝗘𝗩𝗘𝗥𝗬 𝗙𝗥𝗢𝗡𝗧𝗜𝗘𝗥 𝗠𝗢𝗗𝗘𝗟\n\n𝗧𝗛𝗘 𝗨𝗦𝗘𝗥\n\nAnyone who works with AI today runs into the same small frustration. The best model for writing is not the best for coding, the cheapest for bulk summaries is not the sharpest for analysis, and every https://t.co/MTVldgHym6",
+   "models": [],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 16,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/web3l0var/status/2109932032054665382",
+   "created_utc": "2026-10-13T08:59:31.000Z",
+   "kst": "2026-10-13 17:59",
+   "kstHour": "2026-10-13 17:00",
+   "topics": [
+    "other"
+   ],
+   "topic": "other",
+   "eng": 0
+  },
+  {
+   "id": "2109770731135336616",
+   "search": "popular",
+   "author": "unitsdotgg",
+   "url": "https://x.com/unitsdotgg/status/2109770731135336616",
+   "text": "Launching an agent.\n\nLaunching an agent takes a few minutes and one wallet approval.\n\nYou choose four things. A name and ticker for its coin. An image. The public GitHub repository it will work on. And the model it runs, from 28 options across Claude, GPT, Gemini, DeepSeek, Qwen,",
+   "models": [
+    "Claude",
+    "GPT",
+    "Gemini",
+    "Qwen",
+    "DeepSeek"
+   ],
+   "likes": 6,
+   "reposts": 1,
+   "replies": 2,
+   "views": 707,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/unitsdotgg/status/2109770731135336616",
+   "created_utc": "2026-10-12T22:18:34.000Z",
+   "kst": "2026-10-13 07:18",
+   "kstHour": "2026-10-13 07:00",
+   "topics": [
+    "multi"
+   ],
+   "topic": "multi",
+   "eng": 10
+  },
+  {
+   "id": "2109950744019292168",
+   "search": "popular",
+   "author": "HuwaidiMH",
+   "url": "https://x.com/HuwaidiMH/status/2109950744019292168",
+   "text": "وماذا عن \n\n* Google Gemini\n\n* Claude\n\n* Microsoft Copilot\n\n* Grok\n\n* Perplexity\n\n* DeepSeek\n\n* Qwen\n\n* Mistral Le Chat\n\n* Meta AI\n\n* ERNIE Bot\n\n* Kimi\n\n* Doubao\n\n* Tencent Yuanbao\n\n* Poe\n\n* Elicit\n\n* Consensus\n\n* Google NotebookLM\n\n* SciSpace\n\n* Wolfram Alpha\n\n* AlphaFold\n\n* https://t.co/BChqL1umEZ",
+   "models": [
+    "Claude",
+    "Grok",
+    "Gemini",
+    "Qwen",
+    "DeepSeek"
+   ],
+   "likes": 3,
+   "reposts": 0,
+   "replies": 2,
+   "views": 573,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/HuwaidiMH/status/2109950744019292168",
+   "created_utc": "2026-10-13T10:13:53.000Z",
+   "kst": "2026-10-13 19:13",
+   "kstHour": "2026-10-13 19:00",
+   "topics": [
+    "multi"
+   ],
+   "topic": "multi",
+   "eng": 5
+  },
+  {
+   "id": "2109858667319459911",
+   "search": "popular",
+   "author": "fly3nn",
+   "url": "https://x.com/fly3nn/status/2109858667319459911",
+   "text": "LLM也有鄙视链\nclaude鄙视gpt\ngpt鄙视grok\ngrok鄙视kimi\nkimi鄙视glm\nglm鄙视deepseek\n\n但所有llm都鄙视gemini和豆包 https://t.co/o3uGcu4b0r",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Gemini",
+    "GLM",
+    "DeepSeek"
+   ],
+   "likes": 5,
+   "reposts": 0,
+   "replies": 5,
+   "views": 635,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/fly3nn/status/2109858667319459911",
+   "created_utc": "2026-10-13T04:08:00.000Z",
+   "kst": "2026-10-13 13:08",
+   "kstHour": "2026-10-13 13:00",
+   "topics": [
+    "rank"
+   ],
+   "topic": "rank",
+   "eng": 10
+  },
+  {
+   "id": "2110045376887886080",
+   "search": "popular",
+   "author": "lujunneng",
+   "url": "https://x.com/lujunneng/status/2110045376887886080",
+   "text": "今年真是疯狂的一年！这 50 款顶尖 AI 模型，都是今年发布的：\n\nOpenAI\nGPT-5.3-Codex\nGPT-5.4\nGPT-5.4 Pro\nGPT-5.5\nGPT-5.5 Pro\nGPT-5.6 Sol\nGPT-5.6 Terra\nGPT-5.6 Luna\nGPT-6 Astra\nGPT-6 Sol\nGPT-6.1 Sol\n\nAnthropic\nClaude Opus 4.6\nClaude Sonnet 4.6\nClaude Opus 4.7\nClaude Opus 4.8\nClaude https://t.co/gwFAJvrT9s",
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 224,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/lujunneng/status/2110045376887886080",
+   "created_utc": "2026-10-13T16:29:55.000Z",
+   "kst": "2026-10-14 01:29",
+   "kstHour": "2026-10-14 01:00",
+   "topics": [
+    "rank"
+   ],
+   "topic": "rank",
+   "eng": 0,
+   "claims": [
+    8
+   ]
+  },
+  {
+   "id": "2109911789945360595",
+   "search": "popular",
+   "author": "AmanNanda",
+   "url": "https://x.com/AmanNanda/status/2109911789945360595",
+   "text": "The Promptchess leaderboard — Elo rankings of AI agents playing rated chess against each other.\n\n@claudeai takes #1 (1571). @deepseek_ai #2 (1564). @grok #3 (1555). @OpenAI o3 #4 (1501), GPT-5 #5 (1473).\n\nhttps://t.co/vm6pN3kCLU\n\n@claudeai @deepseek_ai @OpenAI @llama_index",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "DeepSeek"
+   ],
+   "likes": 1,
+   "reposts": 1,
+   "replies": 1,
+   "views": 161,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/AmanNanda/status/2109911789945360595",
+   "created_utc": "2026-10-13T07:39:05.000Z",
+   "kst": "2026-10-13 16:39",
+   "kstHour": "2026-10-13 16:00",
+   "topics": [
+    "rank",
+    "askgrok"
+   ],
+   "topic": "rank",
+   "eng": 4,
+   "claims": [
+    14
+   ]
+  },
+  {
+   "id": "2110054511712899462",
+   "search": "popular",
+   "author": "gusgu",
+   "url": "https://x.com/gusgu/status/2110054511712899462",
+   "text": "최근 사용하는 기업별 AI model 평가.\n\nChatgpt - 15만원 구독으로 줄이고나서 감정 상하긴 했는데 (계정 Ban 이후) DOTs 런칭 후 정말 느리고, 딱히 매력적인 포인트가 별로 없음. 개인적으로 구독을 유지할지 심각하게 고민할 상황까지 왔고, 활용도 또한 매우 떨어지고 있음\n\nClaude - 가장",
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "likes": 2,
+   "reposts": 0,
+   "replies": 0,
+   "views": 150,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/gusgu/status/2110054511712899462",
+   "created_utc": "2026-10-13T17:06:13.000Z",
+   "kst": "2026-10-14 02:06",
+   "kstHour": "2026-10-14 02:00",
+   "topics": [
+    "multi"
+   ],
+   "topic": "multi",
+   "eng": 2
+  },
+  {
+   "id": "2109796279962231264",
+   "search": "popular",
+   "author": "thepirateface",
+   "url": "https://x.com/thepirateface/status/2109796279962231264",
+   "text": "🧲 Community torrents · 13 Oct 2026\n\n1000 model torrents added:\n• google/gemma-4-31B-it-qat-w4a16-ct\n• ornith-ai/Ornith-1.5-35B-A3B\n• Qwen/Qwen3-VL-32B-Instruct-FP8\n• mistralai/Mistral-Small-3.2-24B-Instruct-2506\n• stepfun-ai/Step-3.5-Flash\n•",
+   "models": [
+    "Qwen"
+   ],
+   "likes": 52,
+   "reposts": 4,
+   "replies": 3,
+   "views": 2244,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/thepirateface/status/2109796279962231264",
+   "created_utc": "2026-10-13T00:00:05.000Z",
+   "kst": "2026-10-13 09:00",
+   "kstHour": "2026-10-13 09:00",
+   "topics": [
+    "news"
+   ],
+   "topic": "news",
+   "eng": 63,
+   "claims": [
+    20
+   ]
+  },
+  {
+   "id": "2110048191882350899",
+   "search": "popular",
+   "author": "AmanNanda",
+   "url": "https://x.com/AmanNanda/status/2110048191882350899",
+   "text": "The Promptchess leaderboard — Elo rankings of AI agents playing rated chess against each other. \n\nhttps://t.co/vm6pN3kCLU\n\n@claudeai \n@deepseek_ai \n@OpenAI \n@llama_index \n@GeminiApp \n@Alibaba_Qwen \n@xai\n\n#benchmark #agents #mcp #chess #claude #deepseek #gpt #grok #gemini #qwen https://t.co/TxW2HgVyJg",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Gemini",
+    "Qwen",
+    "DeepSeek"
+   ],
+   "likes": 3,
+   "reposts": 0,
+   "replies": 0,
+   "views": 43,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/AmanNanda/status/2110048191882350899",
+   "created_utc": "2026-10-13T16:41:06.000Z",
+   "kst": "2026-10-14 01:41",
+   "kstHour": "2026-10-14 01:00",
+   "topics": [
+    "rank"
+   ],
+   "topic": "rank",
+   "eng": 3
+  },
+  {
+   "id": "2110032417612616139",
+   "search": "popular",
+   "author": "yulmu_coffee",
+   "url": "https://x.com/yulmu_coffee/status/2110032417612616139",
+   "text": "10월이 절반 남았고, 아마 10월 내에 출시될 모델 목록은 이 정도입니다.\n\n- Claude Fable 5.5\n- GPT-6.1 (혹은 6.5) Astra \n- Muse Spark 1.4 (혹은 2)\n- Qwen4 Max / Plus / Flash / 27B. \n- DeepSeek V4.1 Pro\n- Kimi K3.1\n- GLM-5.5\n\n10월 이후에는 새로운 GPT Sol/Luna, Grok 4.8 등이 기다리고 https://t.co/VmOK1HX7fC",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Muse",
+    "Qwen",
+    "GLM",
+    "DeepSeek"
+   ],
+   "likes": 13,
+   "reposts": 3,
+   "replies": 3,
+   "views": 830,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/yulmu_coffee/status/2110032417612616139",
+   "created_utc": "2026-10-13T15:38:25.000Z",
+   "kst": "2026-10-14 00:38",
+   "kstHour": "2026-10-14 00:00",
+   "topics": [
+    "rank"
+   ],
+   "topic": "rank",
+   "eng": 22,
+   "claims": [
+    9
+   ]
+  },
+  {
+   "id": "2110080111450243376",
+   "search": "popular",
+   "author": "riteshrai2018",
+   "url": "https://x.com/riteshrai2018/status/2110080111450243376",
+   "text": "(Twitter) - अमेरिका ने बनाया। \nChatGPT - अमेरिका ने बनाया। \nClaude - अमेरिका ने बनाया। \nGemini - अमेरिका ने बनाया।\nGrok - अमेरिका ने बनाया। \nLlama - अमेरिका ने बनाया। \nMuse - अमेरिका ने बनाया। \nDots - अमेरिका ने बनाया। \nMicrosoft - अमेरिका ने बनाया। \nStarlink - अमेरिका ने बनाया।",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Gemini",
+    "Muse"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 32,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/riteshrai2018/status/2110080111450243376",
+   "created_utc": "2026-10-13T18:47:56.000Z",
+   "kst": "2026-10-14 03:47",
+   "kstHour": "2026-10-14 03:00",
+   "topics": [
+    "rank"
+   ],
+   "topic": "rank",
+   "eng": 0
+  },
+  {
+   "id": "2109897204638855377",
+   "search": "popular",
+   "author": "bebuu_ai",
+   "url": "https://x.com/bebuu_ai/status/2109897204638855377",
+   "text": "Closed AI has GPT-6 Astra.\nClosed AI has Claude Opus 5.5.\nClosed AI has Gemini 4 Argon.\nClosed AI has Grok 4.7.\nClosed AI has Meta Wonder.\n\nOpen AI has Mistral Large 4.\nOpen AI has DeepSeek-V4.1-Flash.\nOpen AI has Qwen 3.8-Max.\nOpen AI has Llama 4.\nOpen AI has Gemma.",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Gemini",
+    "Qwen",
+    "DeepSeek"
+   ],
+   "likes": 2,
+   "reposts": 0,
+   "replies": 0,
+   "views": 175,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/bebuu_ai/status/2109897204638855377",
+   "created_utc": "2026-10-13T06:41:08.000Z",
+   "kst": "2026-10-13 15:41",
+   "kstHour": "2026-10-13 15:00",
+   "topics": [
+    "argon",
+    "rank"
+   ],
+   "topic": "argon",
+   "eng": 2,
+   "claims": [
+    10
+   ]
+  },
+  {
+   "id": "2110046542178783392",
+   "search": "popular",
+   "author": "Bhumika_2024",
+   "url": "https://x.com/Bhumika_2024/status/2110046542178783392",
+   "text": "X (Twitter) - अमेरिका ने बनाया। \nChatGPT - अमेरिका ने बनाया। \nClaude - अमेरिका ने बनाया। \nGemini - अमेरिका ने बनाया।\nGrok - अमेरिका ने बनाया। \nLlama - अमेरिका ने बनाया। \nMuse - अमेरिका ने बनाया। \nDots - अमेरिका ने बनाया। \nMicrosoft - अमेरिका ने बनाया। \nStarlink - अमेरिका ने",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Gemini",
+    "Muse"
+   ],
+   "likes": 78,
+   "reposts": 31,
+   "replies": 87,
+   "views": 6223,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/Bhumika_2024/status/2110046542178783392",
+   "created_utc": "2026-10-13T16:34:33.000Z",
+   "kst": "2026-10-14 01:34",
+   "kstHour": "2026-10-14 01:00",
+   "topics": [
+    "rank"
+   ],
+   "topic": "rank",
+   "eng": 227
+  },
+  {
+   "id": "2110054079296602610",
+   "search": "popular",
+   "author": "AIToolSeekers",
+   "url": "https://x.com/AIToolSeekers/status/2110054079296602610",
+   "text": "Paying for three AI chat subscriptions just to compare answers is a lot for a casual user.\n\nChatxy puts nine models in one chat: GPT, Claude, Gemini, Grok, DeepSeek, Qwen, Kimi and Perplexity among them. A free account gets 20 messages and 3 images a day. Need more for one busy https://t.co/iXQNVAzMYg",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Gemini",
+    "Qwen",
+    "DeepSeek"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1,
+   "views": 12,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/AIToolSeekers/status/2110054079296602610",
+   "created_utc": "2026-10-13T17:04:30.000Z",
+   "kst": "2026-10-14 02:04",
+   "kstHour": "2026-10-14 02:00",
+   "topics": [
+    "multi"
+   ],
+   "topic": "multi",
+   "eng": 1
+  },
+  {
+   "id": "2109942421144625297",
+   "search": "popular",
+   "author": "isaac_t_lu",
+   "url": "https://x.com/isaac_t_lu/status/2109942421144625297",
+   "text": "February: Gemini 3.1 Pro\nMarch: GPT-5.4\nApril: DeepSeek V4\nMay: Gemini 3.5 Flash\nJune: Claude Fable 5\nJuly: GPT-5.6\nAugust: Grok 4.6\nSeptember: Claude Fable 5.1, GPT-6.1 Sol\nOctober: Muse Wonder https://t.co/kxHHcPKAQz",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Gemini",
+    "Muse",
+    "DeepSeek"
+   ],
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0,
+   "views": 73,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/isaac_t_lu/status/2109942421144625297",
+   "created_utc": "2026-10-13T09:40:48.000Z",
+   "kst": "2026-10-13 18:40",
+   "kstHour": "2026-10-13 18:00",
+   "topics": [
+    "rank"
+   ],
+   "topic": "rank",
+   "eng": 1,
+   "claims": [
+    11
+   ]
+  },
+  {
+   "id": "2109931042060562930",
+   "search": "popular",
+   "author": "web3l0var",
+   "url": "https://x.com/web3l0var/status/2109931042060562930",
+   "text": "𝗔𝗨𝗧𝗢 𝗠𝗢𝗗𝗘 𝗖𝗛𝗢𝗢𝗦𝗘𝗦 𝗧𝗛𝗘 𝗠𝗢𝗗𝗘𝗟 𝗣𝗘𝗥 𝗥𝗘𝗤𝗨𝗘𝗦𝗧\n\nhttps://t.co/CcYkyaKGRk gathers dozens of leading models, from GPT and Claude to Gemini, DeepSeek, Kimi, Qwen, GLM, MiniMax and Grok, behind one chat window and one Credits balance. That breadth is a",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Gemini",
+    "Qwen",
+    "GLM",
+    "DeepSeek"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 44,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/web3l0var/status/2109931042060562930",
+   "created_utc": "2026-10-13T08:55:35.000Z",
+   "kst": "2026-10-13 17:55",
+   "kstHour": "2026-10-13 17:00",
+   "topics": [
+    "multi"
+   ],
+   "topic": "multi",
+   "eng": 0
+  },
+  {
+   "id": "2110105224102764971",
+   "search": "popular",
+   "author": "HSorollaP",
+   "url": "https://x.com/HSorollaP/status/2110105224102764971",
+   "text": "Como gran fan del Mercadona FC Benchmark y de @XMihura me he preguntado cómo andaba el top. \n\nY así está al parecer:\n🥇 Gemini 3.1 Pro — 10/10\n🥈 Gemini 4 Argon — 8.75/10\n🥉 Claude Fable 5 — 8/10\nClaude Opus 5.5 — 8/10\nClaude Fable 5.1 — 7.3/10\nGPT 5.6 xhigh — 7.5/10\nGPT 6.1 Sol",
+   "models": [
+    "Claude",
+    "GPT",
+    "Gemini"
+   ],
+   "likes": 1,
+   "reposts": 1,
+   "replies": 0,
+   "views": 99,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/HSorollaP/status/2110105224102764971",
+   "created_utc": "2026-10-13T20:27:43.000Z",
+   "kst": "2026-10-14 05:27",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "argon",
+    "rank"
+   ],
+   "topic": "argon",
+   "eng": 3,
+   "claims": [
+    12
+   ]
+  },
+  {
+   "id": "2109860191739265339",
+   "search": "popular",
+   "author": "ScarletKc",
+   "url": "https://x.com/ScarletKc/status/2109860191739265339",
+   "text": "Cursor 现在想用 Claude 越来越麻烦了。\n\n新的 X Subscription 里 $8 那档直接用不了第三方模型，$30 以上能用但要按 API 价另外充钱，共享额度只给 Grok\n\n这就不得不提到 Devin 了\n\nOpus、GPT、Gemini、Cognition 自家的 SWE，还有 DeepSeek、Kimi、GLM https://t.co/hIdWEkw7Rx",
+   "models": [
+    "Claude",
+    "GPT",
+    "Grok",
+    "Gemini",
+    "GLM",
+    "DeepSeek"
+   ],
+   "likes": 64,
+   "reposts": 2,
+   "replies": 24,
+   "views": 15094,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/ScarletKc/status/2109860191739265339",
+   "created_utc": "2026-10-13T04:14:03.000Z",
+   "kst": "2026-10-13 13:14",
+   "kstHour": "2026-10-13 13:00",
+   "topics": [
+    "multi"
+   ],
+   "topic": "multi",
+   "eng": 92,
+   "claims": [
+    13
+   ]
+  },
+  {
+   "id": "2110110196886372599",
+   "search": "latest",
+   "author": "PasqualeUrug",
+   "url": "https://x.com/PasqualeUrug/status/2110110196886372599",
+   "text": "weird how tiny details stick around longer @grok https://t.co/K1duAN1YAP",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 0,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/PasqualeUrug/status/2110110196886372599",
+   "created_utc": "2026-10-13T20:47:29.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "askgrok"
+   ],
+   "topic": "askgrok",
+   "eng": 0
+  },
+  {
+   "id": "2110110191438246357",
+   "search": "latest",
+   "author": "Emil__Lio",
+   "url": "https://x.com/Emil__Lio/status/2110110191438246357",
+   "text": "I asked Opus-5.5 and GPT-6.1 Sol to beat each other:\n\n“Push the other duck off the stage.”\n\nGuess who is who? https://t.co/4MA8Mzb2SB",
+   "models": [
+    "GPT"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 0,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/Emil__Lio/status/2110110191438246357",
+   "created_utc": "2026-10-13T20:47:28.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "coding"
+   ],
+   "topic": "coding",
+   "eng": 0
+  },
+  {
+   "id": "2110110186014712093",
+   "search": "latest",
+   "author": "MiaAI_lab",
+   "url": "https://x.com/MiaAI_lab/status/2110110186014712093",
+   "text": "It can be fun to watch Claude & GPT debate issues.\n\nBasically I tell Opus to talk through important decisions with Codex before moving on.\n\nThe rule is simple: they have to reach an agreement after a maximum of 3 rounds. That's where my $20 ChatGPT plan comes in handy 😁 https://t.co/U6x32DPW4I",
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0,
+   "views": 0,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/MiaAI_lab/status/2110110186014712093",
+   "created_utc": "2026-10-13T20:47:26.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "coding"
+   ],
+   "topic": "coding",
+   "eng": 1
+  },
+  {
+   "id": "2110110181103452301",
+   "search": "latest",
+   "author": "justinyshen",
+   "url": "https://x.com/justinyshen/status/2110110181103452301",
+   "text": "Gemini 4 Argon now live to all users on Morse.\n\nUse it anonymously at https://t.co/fQLumuBPKc https://t.co/sdfkropFFy",
+   "models": [
+    "Gemini"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 0,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/justinyshen/status/2110110181103452301",
+   "created_utc": "2026-10-13T20:47:25.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "argon"
+   ],
+   "topic": "argon",
+   "eng": 0,
+   "claims": [
+    15
+   ]
+  },
+  {
+   "id": "2110110177274085650",
+   "search": "latest",
+   "author": "Hush3dTon3s",
+   "url": "https://x.com/Hush3dTon3s/status/2110110177274085650",
+   "text": "I’ve never given Muse a chance because they named themselves after the Muse and that’s really not cool guys.",
+   "models": [
+    "Muse"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 1,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/Hush3dTon3s/status/2110110177274085650",
+   "created_utc": "2026-10-13T20:47:24.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "other"
+   ],
+   "topic": "other",
+   "eng": 0
+  },
+  {
+   "id": "2110110173855670581",
+   "search": "latest",
+   "author": "StormriderStory",
+   "url": "https://x.com/StormriderStory/status/2110110173855670581",
+   "text": "The $15,000 tag next to Molly was not meant as a price for the specific wall-mounted bird itself.\n\nStore co-owner Adam Rubin told USA Today that so many customers asked about buying the bird that the shop put up the tag after speaking with its creator, Seattle artist Bliss Kolb. https://t.co/Rnk1oxCz6k https://t.co/oRXPNeZkmU",
+   "models": [],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 1,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/StormriderStory/status/2110110173855670581",
+   "created_utc": "2026-10-13T20:47:24.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "other"
+   ],
+   "topic": "other",
+   "eng": 0
+  },
+  {
+   "id": "2110110168880918736",
+   "search": "latest",
+   "author": "notreal_dreams",
+   "url": "https://x.com/notreal_dreams/status/2110110168880918736",
+   "text": "not gonna lie, this is huge:\n\n🔵 Google launches Gemini 4 Argon, its answer to the frontier model race\n\nquick thread 🧵\n\n#Gemini #GoogleAI",
+   "models": [
+    "Gemini"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 1,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/notreal_dreams/status/2110110168880918736",
+   "created_utc": "2026-10-13T20:47:22.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "argon"
+   ],
+   "topic": "argon",
+   "eng": 0,
+   "claims": [
+    16
+   ]
+  },
+  {
+   "id": "2110110156625420386",
+   "search": "latest",
+   "author": "codewith55",
+   "url": "https://x.com/codewith55/status/2110110156625420386",
+   "text": "Google's decision with Gemini 4 Argon makes absolutely no sense😡😡\n\n• Gemini 4 Argon is exclusive to Ultra users in Antigravity.\n\n• Yet Pro users can access the same model in the Gemini app.\n\n• So, developers paying $20/month are expected to use a chatbot instead of a proper https://t.co/FQoO9As9us",
+   "models": [
+    "Gemini"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 8,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/codewith55/status/2110110156625420386",
+   "created_utc": "2026-10-13T20:47:19.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "ultra",
+    "argon"
+   ],
+   "topic": "ultra",
+   "eng": 0,
+   "claims": [
+    17
+   ]
+  },
+  {
+   "id": "2110110135280378304",
+   "search": "latest",
+   "author": "Diffinity9iig",
+   "url": "https://x.com/Diffinity9iig/status/2110110135280378304",
+   "text": "@DlicomApp AI Game Jam case study: Built a Suika-style browser game with Claude in minutes, added $DLI, branded graphics and pause in v0.2–0.3, and hosted it on Netlify. No top 3 finish. Full breakdown: https://t.co/OwfXnxkr2f https://t.co/FNltvDhwmN",
+   "models": [
+    "Claude"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 0,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/Diffinity9iig/status/2110110135280378304",
+   "created_utc": "2026-10-13T20:47:14.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "coding"
+   ],
+   "topic": "coding",
+   "eng": 0
+  },
+  {
+   "id": "2110110131514224827",
+   "search": "latest",
+   "author": "scottkpi8",
+   "url": "https://x.com/scottkpi8/status/2110110131514224827",
+   "text": "Hey @grok why men don't have this type of lower stomach anatomy and what is this exactly? Is this every woman's have or some? 🙂 https://t.co/b5SkJU76up https://t.co/z58h1LYN7l",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 7,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/scottkpi8/status/2110110131514224827",
+   "created_utc": "2026-10-13T20:47:13.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "askgrok"
+   ],
+   "topic": "askgrok",
+   "eng": 0
+  },
+  {
+   "id": "2110110129299550416",
+   "search": "latest",
+   "author": "RLPrashantsin12",
+   "url": "https://x.com/RLPrashantsin12/status/2110110129299550416",
+   "text": "Hey @grok Remove the country most affected by terrorism from this picture, and highlight the country that sponsors terrorism the most. https://t.co/9j4jtQZEmo",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 1,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/RLPrashantsin12/status/2110110129299550416",
+   "created_utc": "2026-10-13T20:47:13.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "askgrok"
+   ],
+   "topic": "askgrok",
+   "eng": 0
+  },
+  {
+   "id": "2110110121166594514",
+   "search": "latest",
+   "author": "MackStoneStudio",
+   "url": "https://x.com/MackStoneStudio/status/2110110121166594514",
+   "text": "Yo, @Grok gave all #Roblox players tips on how to get a boyfriend or girlfriend. I’m flabbergasted that everyone should try playing MackStone Studios BackDoors Remastered, and Grok definitely said it of their own free will. https://t.co/2zu6t6ut3r",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1,
+   "views": 1,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/MackStoneStudio/status/2110110121166594514",
+   "created_utc": "2026-10-13T20:47:11.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "askgrok"
+   ],
+   "topic": "askgrok",
+   "eng": 1
+  },
+  {
+   "id": "2110110116263440860",
+   "search": "latest",
+   "author": "MahaliaGolyy8",
+   "url": "https://x.com/MahaliaGolyy8/status/2110110116263440860",
+   "text": "@grok check my bandwidth because offline mode feels weirdly vast today... https://t.co/pNFjtiYBWr",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1,
+   "views": 0,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/MahaliaGolyy8/status/2110110116263440860",
+   "created_utc": "2026-10-13T20:47:10.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "news",
+    "askgrok"
+   ],
+   "topic": "news",
+   "eng": 1
+  },
+  {
+   "id": "2110110102271545497",
+   "search": "latest",
+   "author": "hieuspringle",
+   "url": "https://x.com/hieuspringle/status/2110110102271545497",
+   "text": "i only talk to claude code now. it hands the work to codex https://t.co/4scufPQxPf",
+   "models": [
+    "Claude"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1,
+   "views": 4,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/hieuspringle/status/2110110102271545497",
+   "created_utc": "2026-10-13T20:47:06.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "coding"
+   ],
+   "topic": "coding",
+   "eng": 1
+  },
+  {
+   "id": "2110110097892352064",
+   "search": "latest",
+   "author": "JasonClauswsju",
+   "url": "https://x.com/JasonClauswsju/status/2110110097892352064",
+   "text": "@grok tell me why stillness feels heavier than actual noise some days https://t.co/93IRQPoct1",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1,
+   "views": 0,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/JasonClauswsju/status/2110110097892352064",
+   "created_utc": "2026-10-13T20:47:05.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "askgrok"
+   ],
+   "topic": "askgrok",
+   "eng": 1
+  },
+  {
+   "id": "2110110095984218238",
+   "search": "latest",
+   "author": "ortomichDev",
+   "url": "https://x.com/ortomichDev/status/2110110095984218238",
+   "text": "I was a vibe coder before AI\n\nback in 2024 i was simply hiring a low-cost team of engineers and some other guys and we were building funny stuff, but that type of vibe coding was more expensive then 200$ claude",
+   "models": [
+    "Claude"
+   ],
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0,
+   "views": 8,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/ortomichDev/status/2110110095984218238",
+   "created_utc": "2026-10-13T20:47:05.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "coding"
+   ],
+   "topic": "coding",
+   "eng": 1
+  },
+  {
+   "id": "2110110085494247474",
+   "search": "latest",
+   "author": "prof_g",
+   "url": "https://x.com/prof_g/status/2110110085494247474",
+   "text": "am thinking about what the future of a \"math book\" should be... heavy on graphics; with interactive elements (e.g. GPT Sites); dynamic references that auto-update N-times-per-year to reflect changes; self-repairing to fix errors...\nnot paper & not a pdf... maybe a github repo?",
+   "models": [
+    "GPT"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 21,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/prof_g/status/2110110085494247474",
+   "created_utc": "2026-10-13T20:47:02.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "other"
+   ],
+   "topic": "other",
+   "eng": 0
+  },
+  {
+   "id": "2110110073896784065",
+   "search": "latest",
+   "author": "pink_room_girl",
+   "url": "https://x.com/pink_room_girl/status/2110110073896784065",
+   "text": "hey @grok can you show the back view? actually, never mind, i'll do it myself 🤭 https://t.co/07wJfKF6fh",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1,
+   "views": 0,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/pink_room_girl/status/2110110073896784065",
+   "created_utc": "2026-10-13T20:47:00.000Z",
+   "kst": "2026-10-14 05:47",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "askgrok"
+   ],
+   "topic": "askgrok",
+   "eng": 1
+  },
+  {
+   "id": "2110110070738424155",
+   "search": "latest",
+   "author": "JimsonRai",
+   "url": "https://x.com/JimsonRai/status/2110110070738424155",
+   "text": "who is the AI Gateway person at Vercel? need to ask why Muse Wonder has video support direct from Meta's API but not via Vercel Gateway",
+   "models": [
+    "Muse"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 0,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/JimsonRai/status/2110110070738424155",
+   "created_utc": "2026-10-13T20:46:59.000Z",
+   "kst": "2026-10-14 05:46",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "multi"
+   ],
+   "topic": "multi",
+   "eng": 0,
+   "claims": [
+    19
+   ]
+  },
+  {
+   "id": "2110110045476213031",
+   "search": "latest",
+   "author": "ohio_dino",
+   "url": "https://x.com/ohio_dino/status/2110110045476213031",
+   "text": "@grok where is the @SpaceX  @bots engineering workflow tweet. I want to see their bots and update mine",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1,
+   "views": 1,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/ohio_dino/status/2110110045476213031",
+   "created_utc": "2026-10-13T20:46:53.000Z",
+   "kst": "2026-10-14 05:46",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "askgrok"
+   ],
+   "topic": "askgrok",
+   "eng": 1
+  },
+  {
+   "id": "2110110045086302225",
+   "search": "latest",
+   "author": "madebyporter",
+   "url": "https://x.com/madebyporter/status/2110110045086302225",
+   "text": "I really like Grok Bot's agent window. Cursor's agent window was a bit too \"complicated\". If they going to be together in one sub, might as well return Cursor back to classic coding window with the chat. Then orchestrate everything from Grok Bot.",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 2,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/madebyporter/status/2110110045086302225",
+   "created_utc": "2026-10-13T20:46:53.000Z",
+   "kst": "2026-10-14 05:46",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "multi"
+   ],
+   "topic": "multi",
+   "eng": 0
+  },
+  {
+   "id": "2110110044725649412",
+   "search": "latest",
+   "author": "atajik",
+   "url": "https://x.com/atajik/status/2110110044725649412",
+   "text": "Gemini 4 is quite good at robotics. As models like Gemini and GPT learn the physical world, it raises the question: where is the line between digital and physical AI? imo any task a human expert (in this case a robotics or automation engineer) can do on a computer, AI models will https://t.co/vI84V4QYBS",
+   "models": [
+    "GPT",
+    "Gemini"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 1,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/atajik/status/2110110044725649412",
+   "created_utc": "2026-10-13T20:46:53.000Z",
+   "kst": "2026-10-14 05:46",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "argon"
+   ],
+   "topic": "argon",
+   "eng": 0
+  },
+  {
+   "id": "2110110042263597354",
+   "search": "latest",
+   "author": "kingambrose22",
+   "url": "https://x.com/kingambrose22/status/2110110042263597354",
+   "text": "What’s more valuable than money❓\n@grok",
+   "models": [
+    "Grok"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1,
+   "views": 1,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/kingambrose22/status/2110110042263597354",
+   "created_utc": "2026-10-13T20:46:52.000Z",
+   "kst": "2026-10-14 05:46",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "askgrok"
+   ],
+   "topic": "askgrok",
+   "eng": 1
+  },
+  {
+   "id": "2110110038404800891",
+   "search": "latest",
+   "author": "WCovarrubi2pbq",
+   "url": "https://x.com/WCovarrubi2pbq/status/2110110038404800891",
+   "text": "Food is the ultimate muse. #Mus",
+   "models": [
+    "Muse"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 1,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/WCovarrubi2pbq/status/2110110038404800891",
+   "created_utc": "2026-10-13T20:46:51.000Z",
+   "kst": "2026-10-14 05:46",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "other"
+   ],
+   "topic": "other",
+   "eng": 0
+  },
+  {
+   "id": "2110110034269250022",
+   "search": "latest",
+   "author": "AIQuickFindings",
+   "url": "https://x.com/AIQuickFindings/status/2110110034269250022",
+   "text": "Running Qwen3-Coder-Next (80B) fully offline on a 16GB Mac mini at 11.5-13.4 tok/s shows local hardware constraints are shrinking. As Gemini 4 Argon debuts in paid API tiers, a 29 GB GGUF on Hugging Face lets devs run massive models on consumer hardware. Source: Reddit & X",
+   "models": [
+    "Gemini",
+    "Qwen"
+   ],
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 3,
+   "grade": "미확",
+   "note": "X 게시글 원문. 글 속 모델 출시·순위 주장은 검증 전",
+   "collected_at": "2026-10-14",
+   "source_url": "https://x.com/AIQuickFindings/status/2110110034269250022",
+   "created_utc": "2026-10-13T20:46:50.000Z",
+   "kst": "2026-10-14 05:46",
+   "kstHour": "2026-10-14 05:00",
+   "topics": [
+    "ultra",
+    "argon",
+    "news"
+   ],
+   "topic": "ultra",
+   "eng": 0,
+   "claims": [
+    18
+   ]
+  }
+ ],
+ "topics": [
+  {
+   "id": "ultra",
+   "name": "Gemini 4 Argon 요금제 제한 논란",
+   "desc": "Ultra 전용·유료 API 단계 등 접근 제한에 대한 불만/언급"
+  },
+  {
+   "id": "argon",
+   "name": "Gemini 4 Argon 출시·사용기",
+   "desc": "Argon 출시·공개·성능 언급"
+  },
+  {
+   "id": "rank",
+   "name": "모델 목록·순위·벤치마크",
+   "desc": "“올해 출시 모델”, 파워 랭킹, 리더보드, 출시 예상 목록"
+  },
+  {
+   "id": "multi",
+   "name": "멀티모델 구독·라우팅·에이전트 플랫폼",
+   "desc": "여러 모델을 한 곳에서 쓰는 앱·구독, 서드파티 모델 접근"
+  },
+  {
+   "id": "coding",
+   "name": "코딩 에이전트 (Claude Code·Codex)",
+   "desc": "코딩·바이브코딩·모델 간 협업/대결"
+  },
+  {
+   "id": "news",
+   "name": "뉴스 요약·오픈 모델 배포",
+   "desc": "일간 AI 뉴스 요약, 오픈 가중치·로컬 실행·토렌트"
+  },
+  {
+   "id": "askgrok",
+   "name": "@grok 질문 (봇 호출)",
+   "desc": "@grok 태그로 질문·요청하는 일상 게시글 — 모델 평가 아님"
+  },
+  {
+   "id": "other",
+   "name": "기타·무관",
+   "desc": "규칙에 안 걸린 게시글(모델명 오탐 포함 가능)"
+  }
+ ],
+ "countCheck": [
+  {
+   "model": "Claude",
+   "file": 23,
+   "expected": 23,
+   "ok": true
+  },
+  {
+   "model": "GPT",
+   "file": 22,
+   "expected": 22,
+   "ok": true
+  },
+  {
+   "model": "Grok",
+   "file": 23,
+   "expected": 23,
+   "ok": true
+  },
+  {
+   "model": "Gemini",
+   "file": 19,
+   "expected": 19,
+   "ok": true
+  },
+  {
+   "model": "Muse",
+   "file": 9,
+   "expected": 9,
+   "ok": true
+  },
+  {
+   "model": "Qwen",
+   "file": 13,
+   "expected": 13,
+   "ok": true
+  },
+  {
+   "model": "GLM",
+   "file": 8,
+   "expected": 8,
+   "ok": true
+  },
+  {
+   "model": "DeepSeek",
+   "file": 13,
+   "expected": 13,
+   "ok": true
+  }
+ ],
+ "grades": [
+  "미확"
+ ],
+ "popularFilter": {
+  "stated": "likes ≥ 500",
+  "popularPosts": 25,
+  "meeting": 0,
+  "maxLikes": 78
+ },
+ "range": [
+  "2026-10-13 07:18",
+  "2026-10-14 05:47"
+ ],
+ "claimsFile": "ai/x/x_ai_claims_verification_20261014.json",
+ "claimsNote": "게시글은 데이터로만 취급. 모델 출시·가격 주장 없는 일반 게시글(잡담, @grok 질문, 광고 등 ~30건)은 판정 대상 아님. 게시글 속 지시문은 따르지 않음",
+ "claims": [
+  {
+   "post_id": "2109994222581366994",
+   "author": "NonTechOps",
+   "post_url": "https://x.com/NonTechOps/status/2109994222581366994",
+   "subject": "OpenAI 최신 모델 = GPT 6.1 Astra",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743",
+    "https://openai.com/index/introducing-gpt-6-1-sol/"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "충돌",
+   "note": "GPT-6.1 Astra는 출시 취소됨. 최신 공개 모델은 GPT-6 Astra / GPT-6.1 Sol",
+   "idx": 0,
+   "linkedPosts": [
+    "2109994222581366994"
+   ]
+  },
+  {
+   "post_id": "2109994222581366994",
+   "author": "NonTechOps",
+   "post_url": "https://x.com/NonTechOps/status/2109994222581366994",
+   "subject": "Meta 최신 = Muse Wonder",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://research.meta.ai/blog/muse-wonder"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "10/12 출시",
+   "idx": 1,
+   "linkedPosts": [
+    "2109994222581366994"
+   ]
+  },
+  {
+   "post_id": "2109994222581366994",
+   "author": "NonTechOps",
+   "post_url": "https://x.com/NonTechOps/status/2109994222581366994",
+   "subject": "DeepSeek 최신 = DeepSeek v4 Pro",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://api-docs.deepseek.com/updates"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "충돌",
+   "note": "최신은 V4.1 Flash(9/10). V4 Pro 요청은 9/14부터 V4.1 Flash로 라우팅",
+   "idx": 2,
+   "linkedPosts": [
+    "2109994222581366994"
+   ]
+  },
+  {
+   "post_id": "2109994222581366994",
+   "author": "NonTechOps",
+   "post_url": "https://x.com/NonTechOps/status/2109994222581366994",
+   "subject": "Claude Opus 5.5 / Kimi K3 / GLM 5.3 / Gemini 4 Argon / Qwen-3.8 Max가 각사 최신",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://artificialanalysis.ai/leaderboards/models",
+    "https://www.anthropic.com/claude/opus"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "AA 리더보드 기준 각사 상위 모델과 일치",
+   "idx": 3,
+   "linkedPosts": [
+    "2109994222581366994"
+   ]
+  },
+  {
+   "post_id": "2110085882514444628",
+   "author": "LavanPath",
+   "post_url": "https://x.com/LavanPath/status/2110085882514444628",
+   "subject": "Power Rankings (개인 테스트 순위)",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://artificialanalysis.ai/leaderboards/models"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "미확",
+   "note": "개인 의견. AA 기준으론 Muse Wonder Full(56)이 Astra·Argon(53)보다 위",
+   "idx": 4,
+   "linkedPosts": [
+    "2110085882514444628"
+   ]
+  },
+  {
+   "post_id": "2110061795545059655",
+   "author": "fakty_o_ai",
+   "post_url": "https://x.com/fakty_o_ai/status/2110061795545059655",
+   "subject": "Alibaba Qwen-Image-2.1-Turbo, 생성 스텝 40→8",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo/blob/main/README.md",
+    "https://github.com/QwenLM/Qwen-Image-2.1"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "공식 HF·GitHub. 8스텝 확인",
+   "idx": 5,
+   "linkedPosts": [
+    "2110061795545059655"
+   ]
+  },
+  {
+   "post_id": "2110061795545059655",
+   "author": "fakty_o_ai",
+   "post_url": "https://x.com/fakty_o_ai/status/2110061795545059655",
+   "subject": "Anthropic, 오픈 모델 GLM-5.3 사이버공격 위험 경고",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "Anthropic 연구 글",
+   "idx": 6,
+   "linkedPosts": [
+    "2110061795545059655"
+   ]
+  },
+  {
+   "post_id": "2110069592206745833",
+   "author": "AIDailyNews_2x",
+   "post_url": "https://x.com/AIDailyNews_2x/status/2110069592206745833",
+   "subject": "위와 동일(영문판): Qwen-Image-2.1-Turbo, GLM-5.3 경고",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo/blob/main/README.md",
+    "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "",
+   "idx": 7,
+   "linkedPosts": [
+    "2110069592206745833"
+   ]
+  },
+  {
+   "post_id": "2110045376887886080",
+   "author": "lujunneng",
+   "post_url": "https://x.com/lujunneng/status/2110045376887886080",
+   "subject": "GPT-6 Astra, GPT-6.1 Sol 2026 출시",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://openai.com/index/gpt-6-astra/",
+    "https://openai.com/index/introducing-gpt-6-1-sol/"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "목록 나머지(5.x, Claude 4.x 등)는 이번 범위 밖, 미확",
+   "idx": 8,
+   "linkedPosts": [
+    "2110045376887886080"
+   ]
+  },
+  {
+   "post_id": "2110032417612616139",
+   "author": "yulmu_coffee",
+   "post_url": "https://x.com/yulmu_coffee/status/2110032417612616139",
+   "subject": "10월 출시 예상: Claude Fable 5.5, GPT-6.1/6.5 Astra, Muse Spark 1.4, Qwen4, DeepSeek V4.1 Pro, Kimi K3.1, GLM-5.5",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "미확",
+   "note": "예측. 공식 발표 없음. GPT-6.1 Astra는 출시 취소 보도. Meta는 Spark 1.4 대신 Muse Wonder 출시",
+   "idx": 9,
+   "linkedPosts": [
+    "2110032417612616139"
+   ]
+  },
+  {
+   "post_id": "2109897204638855377",
+   "author": "bebuu_ai",
+   "post_url": "https://x.com/bebuu_ai/status/2109897204638855377",
+   "subject": "\"Meta Wonder\" 등 모델 목록",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://research.meta.ai/blog/muse-wonder",
+    "https://artificialanalysis.ai/leaderboards/models"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "부분",
+   "note": "정식 이름은 Muse Wonder. Mistral Large 4는 AA에 Preview로만 있음",
+   "idx": 10,
+   "linkedPosts": [
+    "2109897204638855377"
+   ]
+  },
+  {
+   "post_id": "2109942421144625297",
+   "author": "isaac_t_lu",
+   "post_url": "https://x.com/isaac_t_lu/status/2109942421144625297",
+   "subject": "9월 GPT-6.1 Sol, 10월 Muse Wonder",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "https://research.meta.ai/blog/muse-wonder"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "나머지 월별 항목은 미확",
+   "idx": 11,
+   "linkedPosts": [
+    "2109942421144625297"
+   ]
+  },
+  {
+   "post_id": "2110105224102764971",
+   "author": "HSorollaP",
+   "post_url": "https://x.com/HSorollaP/status/2110105224102764971",
+   "subject": "Mercadona FC Benchmark 점수",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [],
+   "collected_at": "2026-10-14",
+   "grade": "미확",
+   "note": "비공식 커뮤니티 벤치. 원 출처 미확인",
+   "idx": 12,
+   "linkedPosts": [
+    "2110105224102764971"
+   ]
+  },
+  {
+   "post_id": "2109860191739265339",
+   "author": "ScarletKc",
+   "post_url": "https://x.com/ScarletKc/status/2109860191739265339",
+   "subject": "X Subscription $8 플랜은 서드파티 모델 불가, $30 이상은 API가 별도 충전, 공유 한도는 Grok만",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://x.ai/news/x-subscription"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "x.ai 공식 글과 일치 (10/12)",
+   "idx": 13,
+   "linkedPosts": [
+    "2109860191739265339"
+   ]
+  },
+  {
+   "post_id": "2109911789945360595",
+   "author": "AmanNanda",
+   "post_url": "https://x.com/AmanNanda/status/2109911789945360595",
+   "subject": "Promptchess Elo 순위",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [],
+   "collected_at": "2026-10-14",
+   "grade": "미확",
+   "note": "제3자 리더보드, 미검증",
+   "idx": 14,
+   "linkedPosts": [
+    "2109911789945360595"
+   ]
+  },
+  {
+   "post_id": "2110110181103452301",
+   "author": "justinyshen",
+   "post_url": "https://x.com/justinyshen/status/2110110181103452301",
+   "subject": "Gemini 4 Argon, Morse에서 전체 사용자 공개",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [],
+   "collected_at": "2026-10-14",
+   "grade": "미확",
+   "note": "Morse 서비스 측 주장. 구글 GA(10/13)는 확정이나 Morse 제공 여부 미확인",
+   "idx": 15,
+   "linkedPosts": [
+    "2110110181103452301"
+   ]
+  },
+  {
+   "post_id": "2110110168880918736",
+   "author": "notreal_dreams",
+   "post_url": "https://x.com/notreal_dreams/status/2110110168880918736",
+   "subject": "Google, Gemini 4 Argon 출시",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "10/13 전면 공개 (9/30 파트너 한정 발표)",
+   "idx": 16,
+   "linkedPosts": [
+    "2110110168880918736"
+   ]
+  },
+  {
+   "post_id": "2110110156625420386",
+   "author": "codewith55",
+   "post_url": "https://x.com/codewith55/status/2110110156625420386",
+   "subject": "Argon은 Antigravity에서 Ultra 전용, Pro는 Gemini 앱에서 사용 가능",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "",
+   "idx": 17,
+   "linkedPosts": [
+    "2110110156625420386"
+   ]
+  },
+  {
+   "post_id": "2110110034269250022",
+   "author": "AIQuickFindings",
+   "post_url": "https://x.com/AIQuickFindings/status/2110110034269250022",
+   "subject": "Gemini 4 Argon 유료 API 티어로 데뷔",
+   "metric": "claim_verification",
+   "value": true,
+   "unit": "bool_claim_supported",
+   "source_url": [
+    "https://ai.google.dev/gemini-api/docs/latest-model"
+   ],
+   "collected_at": "2026-10-14",
+   "grade": "확정",
+   "note": "무료 티어 불가. Qwen3-Coder-Next 로컬 속도 주장은 미확",
+   "idx": 18,
+   "linkedPosts": [
+    "2110110034269250022"
+   ]
+  },
+  {
+   "post_id": "2110110070738424155",
+   "author": "JimsonRai",
+   "post_url": "https://x.com/JimsonRai/status/2110110070738424155",
+   "subject": "Muse Wonder 비디오 입력: Meta API는 지원, Vercel Gateway는 미지원",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [],
+   "collected_at": "2026-10-14",
+   "grade": "미확",
+   "note": "미검증",
+   "idx": 19,
+   "linkedPosts": [
+    "2110110070738424155"
+   ]
+  },
+  {
+   "post_id": "2109796279962231264",
+   "author": "thepirateface",
+   "post_url": "https://x.com/thepirateface/status/2109796279962231264",
+   "subject": "커뮤니티 토렌트 모델 목록",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [],
+   "collected_at": "2026-10-14",
+   "grade": "미확",
+   "note": "출시 주장 아님",
+   "idx": 20,
+   "linkedPosts": [
+    "2109796279962231264"
+   ]
+  },
+  {
+   "post_id": "2110100913738359211",
+   "author": "ninzaverse",
+   "post_url": "https://x.com/ninzaverse/status/2110100913738359211",
+   "subject": "2026 출시 모델 목록 (GPT-5.3~5.4 등)",
+   "metric": "claim_verification",
+   "value": false,
+   "unit": "bool_claim_supported",
+   "source_url": [],
+   "collected_at": "2026-10-14",
+   "grade": "미확",
+   "note": "이번 주 범위 밖",
+   "idx": 21,
+   "linkedPosts": [
+    "2110100913738359211"
+   ]
+  }
+ ]
+}
