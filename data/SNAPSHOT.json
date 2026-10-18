@@ -1,17 +1,17 @@
 {
- "synced_at": "2026-10-15T05:22:58+09:00",
- "verification": "비서실장 확인 2026-10-14 · 사용 가능",
+ "synced_at": "2026-10-19T08:19:36+09:00",
+ "verification": "비서실장 확인 2026-10-19 · 사용 가능",
  "store_files": {
-  "benchmarks": "ai/benchmarks/ai_benchmarks_aa_index_20261014.json",
-  "pricing": "ai/pricing/ai_pricing_api_20261014.json",
+  "benchmarks": "ai/benchmarks/ai_benchmarks_aa_index_20261019.json",
+  "pricing": "ai/pricing/ai_pricing_api_20261019.json",
   "promos": "ai/pricing/ai_pricing_promos_20261014.json",
-  "events": "ai/models/ai_models_events_20261014.json",
+  "events": "ai/models/ai_models_events_20261019.json",
   "claims": "ai/x/x_ai_claims_verification_20261014.json",
   "posts": "ai/x/x_ai_posts_20261014.json"
  },
  "md5": {
-  "data.json": "b48ff7dfee44f3051c120b919235d960",
-  "store.json": "dc45e1a5bf42b890ad2ea51d0e086108",
-  "x.json": "dfdca0bdc3b5c891ddad20f94ceb16eb"
+  "data.json": "f048fc35699f1ef035faa3468bb1c325",
+  "store.json": "1f0937ade2c5471f32c112b45c679d8c",
+  "x.json": "16953f9e057d789098e329621a026f22"
  }
 }
