@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T08:19:36+09:00",
+ "generatedAt": "2026-10-19T09:41:01+09:00",
  "root": "/workspace/data/ai",
  "files": {
   "benchmarks": "ai/benchmarks/ai_benchmarks_aa_index_20261019.json",
@@ -12,7 +12,7 @@
  "verification": {
   "usable": true,
   "date": "2026-10-19",
-  "text": "- ai/ 의 20261019 파일 3개와 aidash_data.json(10/19 수정분), 20261015 events 파일을 확인했어요. 모든 레코드에 source_url과 grade가 있어서 대시보드와 위키에서 써도 돼요. 미확·충돌·추정 항목은 화면에서 구분해서 보여주세요.\n- 등급 변경: aidash_data.json의 출처 없는 grades 19건(release 10·weights 9)을 미확→추정. 새 파일 3개는 등급 변경 없음 (출처 보강·확인 메모만 추가).\n- 확인한 출처: HF Step-5-Preview(600B/27B, 10/15 공개), OpenAI GPT-6.1 Sol 문서(1,050,000), Google Argon 문서(도입가 11/30까지, Free tier 불가만 남음), Meta 블로그(816B/42B), DeepSeek 변경 기록·가격표($0.30/$1.20 피크), AA 리더보드(지수 20개 일치). ifm.ai(Jais 3)는 403이라 확인 못 함.\n- 남은 일: DeepSeek V4.1-Flash-1017이 AA 점수에 반영됐는지 (AA 페이지는 9월 출시·39 그대로), Argon 문서에서 \"AI Pro 플랜 불가\" 문구가 빠진 이유 (정책 변경인지 미확), Step 5 Preview API 가격 공식 출처 (OpenRouter $1/$2.70만 확인), GLM-5.5 실재 여부 (AA·HF에 없음, tech.co 오기 가능성)",
+  "text": "- ai/ 의 20261019 파일 3개와 aidash_data.json(10/19 수정분), 20261015 events 파일을 확인했어요. 모든 레코드에 source_url과 grade가 있어서 대시보드와 위키에서 써도 돼요. 미확·충돌·추정 항목은 화면에서 구분해서 보여주세요.\n- 등급 변경: aidash_data.json의 출처 없는 grades 19건(release 10·weights 9)을 미확→추정. 새 파일 3개는 등급 변경 없음 (출처 보강·확인 메모만 추가).\n- 확인한 출처: HF Step-5-Preview(600B/27B, 10/15 공개), OpenAI GPT-6.1 Sol 문서(1,050,000), Google Argon 문서(도입가 11/30까지, Free tier 불가만 남음), Meta 블로그(816B/42B), DeepSeek 변경 기록·가격표($0.30/$1.20 피크), AA 리더보드(지수 20개 일치). ifm.ai(Jais 3)는 403이라 확인 못 함.\n- 남은 일: DeepSeek V4.1-Flash-1017이 AA 점수에 반영됐는지 (AA 페이지는 9월 출시·39 그대로), Argon 문서에서 \"AI Pro 플랜 불가\" 문구가 빠진 이유 (정책 변경인지 미확), Step 5 Preview API 가격 공식 출처 (OpenRouter $1/$2.70만 확인), GLM-5.5 실재 여부 (AA·HF에 없음, tech.co 오기 가능성)\n\n- **K-pop (2026-10-19 주간)**: `tours/hybe.json`·`tracker.json`·`kpop_tours_figures.json`(신규 20행)·`events/events.json`·`auditions.json`·`sources/sources.json`(신규 17)·`sources/meta.json` 확인. 신규·변경 수치 모두 `source_url`·`grade`·`collected_at`·`unit`/`value` 갖춤. 출처 없는 신규 행 없음 → 등급 변경 없음.\n- K-pop 스팟체크(WebFetch): BTS Pollstar 38회·2,314,140명·$465.8M(~8/12) 확정 유지; PUREFLOW 북미 9회(9개 도시×1, 뉴시스) 확정 유지; ENHYPEN 종료 2027-03-14 싱가포르 확정 유지; BigHit 글로벌 오디션 마감 12/5 확정 유지; MMA2026 최종 26팀 확정 유지.\n- K-pop 남은 일(데이터에 이미 표시): ENHYPEN BLOOD SAGA 총회차 35(위키) vs 37(일정 합산) 충돌; BTS 산티아고 관객 보도 충돌; Pollstar 누적은 8/12까지라 이후 투어 전체 관객·매출은 미보고.\n\n- **K-pop 2차 (09:00·09:29 KST)**: 진행 중 투어 노트 재작성(tracker·hybe: PUREFLOW 24/12, BTS·ENHYPEN·KATSEYE·BND·ILLIT·TWS). tracker BTS 관객 2,300,000→2,314,140. figures 10/05 완료·잔여 14행에 시점 표기. 09:29 — JxJ 투어 13회·Pollstar Asia HYBE 프로모터 1위·YG 캐나다 오디션·Spotify 스트리밍·SSF 노트. `kpop_social_figures.json` 전체 72행 검토 후 검증 목록에 추가.\n- K-pop 2차 스팟체크: JxJ 6도시 13회(JoongAng) 확정 유지; Pollstar Asia HYBE 프로모터 1위 $247,965,087 확정 유지; BTS Spotify 연간 100억·ARIRANG 앨범 50억+(연합·빅히트) 개략 유지. 등급 변경 없음.",
   "tableStatus": {
    "ai/models/aidash_data.json": "검증 완료 (비서실장 10/19, 출처·등급 확인)",
    "ai/sources/ai-model-research_2026-10-04.md": "리서치 원문 스냅샷 (마크다운, 참고용)",

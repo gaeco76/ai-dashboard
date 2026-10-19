@@ -1,5 +1,5 @@
 {
- "synced_at": "2026-10-19T08:19:36+09:00",
+ "synced_at": "2026-10-19T09:41:01+09:00",
  "verification": "비서실장 확인 2026-10-19 · 사용 가능",
  "store_files": {
   "benchmarks": "ai/benchmarks/ai_benchmarks_aa_index_20261019.json",
@@ -10,8 +10,8 @@
   "posts": "ai/x/x_ai_posts_20261014.json"
  },
  "md5": {
-  "data.json": "f048fc35699f1ef035faa3468bb1c325",
-  "store.json": "1f0937ade2c5471f32c112b45c679d8c",
-  "x.json": "16953f9e057d789098e329621a026f22"
+  "data.json": "447dc3170b7c05bd6714af911420ad7f",
+  "store.json": "b81637743f13a1a18ce8bb20485d4fed",
+  "x.json": "716235aa39b09f16a69b48d03b59cc8a"
  }
 }
