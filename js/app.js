@@ -385,6 +385,13 @@ async function init() {
   if (DATA.storeOn) src += ' + 공용 저장소(등급)';
   $('#loading').remove();
   $('#asOf').textContent = DATA.asOf + ' KST';
+  // 공용 저장소 최신 데이터 날짜 (파일명 _YYYYMMDD 중 최댓값) — md 기준일과 나란히 표시
+  if (DATA.storeOn && STORE?.files) {
+    const fd = Object.entries(STORE.files).map(([k, f]) => [k, (String(f || '').match(/_(\d{4})(\d{2})(\d{2})\.json$/) || []).slice(1).join('-')]).filter(x => x[1]);
+    const latest = fd.map(x => x[1]).sort().pop();
+    if (latest) { $('#asOf').innerHTML = `원문 md ${esc(DATA.asOf)} · 저장소 <span id="storeAsOf">${esc(latest)}</span> KST`;
+      $('#asOf').title = '저장소 파일별 날짜: ' + fd.map(([k, d]) => `${k} ${d}`).join(', '); }
+  }
   $('#srcState').innerHTML = `<span class="dot" style="background:#22c55e"></span>${esc(src)}`;
   $('#foot').innerHTML = `<div>원문: ${esc(DATA.sourceFile)} · ${esc(DATA.indexName)} · 가격 ${esc(DATA.priceUnit)}</div><div>숫자는 원문 마크다운에서만 추출하며, 파생값은 별도 표기합니다. 오늘(KST) ${TODAY} 기준 D-day.</div>`;
   drawFilters(); layout(); setupNav();
